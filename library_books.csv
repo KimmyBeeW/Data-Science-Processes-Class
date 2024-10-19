@@ -1,0 +1,1311 @@
+book_id,title,author,genre,pages,published_year
+0,The Hunger Games,Suzanne Collins,Young Adult,374,2008
+1,Harry Potter and the Order of the Phoenix,J.K. Rowling,Fantasy,870,2003
+2,Twilight,Stephenie Meyer,Young Adult,501,2005
+3,Animal Farm,George Orwell,Classics,141,1945
+4,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien,Fantasy,1728,1955
+5,The Giving Tree,Shel Silverstein,Childrens,64,1964
+6,The Help,Kathryn Stockett ,Fiction,451,2009
+7,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,309,1997
+8,One Hundred Years of Solitude,Gabriel García Márquez,Fiction,417,1967
+9,Harry Potter and the Deathly Hallows,J.K. Rowling,Fantasy,759,2007
+10,The Fellowship of the Ring,J.R.R. Tolkien,Classics,527,1954
+11,1984,George Orwell,Classics,237,1949
+12,The Road,Cormac McCarthy,Fiction,241,2006
+13,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Fantasy,435,1999
+14,Harry Potter and the Goblet of Fire,J.K. Rowling,Fantasy,734,2000
+15,Harry Potter and the Half-Blood Prince,J.K. Rowling,Fantasy,652,2005
+16,Harry Potter and the Chamber of Secrets,J.K. Rowling,Fantasy,341,1998
+17,American Gods,Neil Gaiman ,Fantasy,635,2001
+18,Perfume: The Story of a Murderer,Patrick Süskind,Fiction,263,1985
+19,Holes,Louis Sachar ,Young Adult,233,1998
+20,"The Hobbit, or There and Back Again",J.R.R. Tolkien,Fantasy,366,1937
+21,Love in the Time of Cholera,Gabriel García Márquez,Fiction,348,1985
+22,Atonement,Ian McEwan,Fiction,351,2001
+23,The Hunger Games Trilogy Boxset,Suzanne Collins,Young Adult,1155,2008
+24,The Silmarillion,J.R.R. Tolkien,Fantasy,386,1977
+25,Catching Fire,Suzanne Collins,Young Adult,391,2009
+26,A Light in the Attic,Shel Silverstein,Poetry,176,1981
+27,The Sound and the Fury,William Faulkner,Classics,366,1929
+28,Island of the Blue Dolphins,Scott O'Dell,Young Adult,194,1960
+29,Midnight Sun [2008 Draft],Stephenie Meyer,Young Adult,264,2008
+30,Neverwhere,Neil Gaiman ,Fantasy,370,1996
+31,The Awakening,Kate Chopin,Classics,195,1999
+32,Things Fall Apart,Chinua Achebe,Fiction,209,1958
+33,Mockingjay,Suzanne Collins,Young Adult,390,2010
+34,Stardust,Neil Gaiman ,Fantasy,248,1997
+35,The Lord of the Rings,J.R.R. Tolkien,Fantasy,1216,1955
+36,The Graveyard Book,Neil Gaiman ,Fantasy,307,2008
+37,Beowulf,Unknown,Classics,245,2000
+38,As I Lay Dying,William Faulkner,Classics,288,1930
+39,A Separate Peace,John Knowles,Classics,208,1959
+40,Midnight's Children,Salman Rushdie,Fiction,647,1981
+41,Harry Potter Series Box Set,J.K. Rowling,Fantasy,4100,2007
+42,"Faust, First Part",Johann Wolfgang von Goethe,Classics,327,2008
+43,"Blood Meridian, or the Evening Redness in the West",Cormac McCarthy,Fiction,351,1985
+44,The Tales of Beedle the Bard,J.K. Rowling,Fantasy,109,2008
+45,The Host,Stephenie Meyer,Young Adult,620,2008
+46,The Twilight Collection,Stephenie Meyer,Young Adult,1690,2007
+47,Snow Falling on Cedars,David Guterson,Fiction,460,1994
+48,Coraline,Neil Gaiman ,Fantasy,162,2002
+49,Vanity Fair,William Makepeace Thackeray,Classics,867,1948
+50,The God Delusion,Richard Dawkins ,Nonfiction,374,2006
+51,A Great and Terrible Beauty,Libba Bray ,Fantasy,403,2003
+52,"Cry, the Beloved Country",Alan Paton,Fiction,316,1948
+53,Trainspotting,Irvine Welsh,Fiction,430,1993
+54,Acheron,Sherrilyn Kenyon ,Paranormal Romance,728,2008
+55,The Return of the King,J.R.R. Tolkien,Fantasy,385,1955
+56,No Country for Old Men,Cormac McCarthy,Fiction,309,2005
+57,The Two Towers,J.R.R. Tolkien,Fantasy,322,1954
+58,One Day in the Life of Ivan Denisovich,Aleksandr Solzhenitsyn,Fiction,182,1962
+59,I'll Give You the Sun,Jandy Nelson ,Young Adult,371,2014
+60,The Magic Mountain,Thomas Mann,Fiction,706,1924
+61,The Girl on the Train,Paula Hawkins ,Fiction,325,2015
+62,The Sorrows of Young Werther,Johann Wolfgang von Goethe,Classics,149,1944
+63,The Ocean at the End of the Lane,Neil Gaiman ,Fantasy,181,2013
+64,"Absalom, Absalom!",William Faulkner,Classics,316,1936
+65,The City of Ember,Jeanne DuPrau,Young Adult,288,2003
+66,Beauty: A Retelling of the Story of Beauty and the Beast,Robin McKinley,Fantasy,256,1978
+67,Fantasy Lover,Sherrilyn Kenyon ,Romance,337,2002
+68,Skagboys,Irvine Welsh,Fiction,548,2012
+69,All the Pretty Horses,Cormac McCarthy,Fiction,302,1992
+70,Light in August,William Faulkner,Fiction,507,1932
+71,Anansi Boys,Neil Gaiman ,Fantasy,387,2005
+72,Running with Scissors,Augusten Burroughs ,Memoir,304,2002
+73,The Short Second Life of Bree Tanner,Stephenie Meyer,Young Adult,178,2009
+74,Between Shades of Gray,Ruta Sepetys ,Historical Fiction,344,2011
+75,Animal Farm / 1984,George Orwell,Classics,400,1948
+76,Fingersmith,Sarah Waters,Historical Fiction,592,2002
+77,Chronicle of a Death Foretold,Gabriel García Márquez,Fiction,120,1981
+78,Eclipse,Stephenie Meyer,Young Adult,629,2007
+79,Breaking Dawn,Stephenie Meyer,Young Adult,756,2008
+80,The Selfish Gene,Richard Dawkins ,Science,360,1976
+81,The Satanic Verses,Salman Rushdie,Fiction,561,1988
+82,The Blue Sword,Robin McKinley,Fantasy,256,1982
+83,The Sky Is Everywhere,Jandy Nelson ,Young Adult,275,2010
+84,Illuminae,Amie Kaufman ,Science Fiction,608,2015
+85,The House of the Scorpion,Nancy Farmer ,Young Adult,380,2002
+86,New Moon,Stephenie Meyer,Young Adult,563,2006
+87,Solaris,Stanisław Lem,Science Fiction,204,1961
+88,The Traitor's Emblem,Juan Gomez-Jurado ,Historical Fiction,317,2008
+89,The Children of Húrin,J.R.R. Tolkien,Fantasy,313,2007
+90,The Casual Vacancy,J.K. Rowling,Fiction,503,2012
+91,Preludes & Nocturnes,Neil Gaiman ,Graphic Novels,233,1991
+92,The Book of Lost Things,John Connolly ,Fantasy,339,2006
+93,Adhaata Asao's Liege,Afroz Alam ,Fantasy,174,2020
+94,Educated,Tara Westover ,Nonfiction,334,2018
+95,Warm Bodies,Isaac Marion ,Romance,256,2010
+96,The Wishing Spell,Chris Colfer,Fantasy,438,2012
+97,Caraval,Stephanie Garber ,Fantasy,432,2017
+98,Where the Sidewalk Ends,Shel Silverstein,Poetry,176,1974
+99,The Bone Collector,Jeffery Deaver ,Mystery,528,1997
+100,"Red, White & Royal Blue",Casey McQuiston ,Romance,421,2019
+101,The Invisible Game: Mindset of a Winning Team,Zoltan Andrejkovics ,Psychology,201,2016
+102,Suttree,Cormac McCarthy,Fiction,471,1979
+103,Rebel Angels,Libba Bray ,Fantasy,548,2005
+104,Down and Out in Paris and London,George Orwell,Nonfiction,213,1933
+105,The Diviners,Libba Bray ,Fantasy,578,2012
+106,Haroun and the Sea of Stories,Salman Rushdie,Fantasy,224,1990
+107,Dance with the Devil,Sherrilyn Kenyon ,Paranormal Romance,343,2003
+108,Buddenbrooks: The Decline of a Family,Thomas Mann,Classics,731,2001
+109,The Harry Potter Collection 1-4,J.K. Rowling,Fantasy,1500,1999
+110,Eon: Dragoneye Reborn,Alison Goodman ,Fantasy,531,2008
+111,Salt to the Sea,Ruta Sepetys ,Historical Fiction,391,2016
+112,The Sweet Far Thing,Libba Bray ,Fantasy,819,2007
+113,Tangled,Emma Chase ,Romance,254,2013
+114,Night Play,Sherrilyn Kenyon ,Paranormal Romance,362,2004
+115,Sunshine,Robin McKinley,Vampires,405,2003
+116,The Talented Mr. Ripley,Patricia Highsmith,Fiction,320,1955
+117,The Gulag Archipelago 1918–1956,Aleksandr Solzhenitsyn,History,472,1973
+118,Falling Up,Shel Silverstein,Poetry,178,1996
+119,God's Spy,Juan Gomez-Jurado ,Thriller,368,2006
+120,Night Pleasures,Sherrilyn Kenyon ,Paranormal,309,2002
+121,Nutshell,Ian McEwan,Fiction,208,2016
+122,Death in Venice,Thomas Mann,Classics,160,2011
+123,The Crossing,Cormac McCarthy,Fiction,426,1994
+124,Kristin Lavransdatter,Sigrid Undset,Historical Fiction,1144,2020
+125,Children of Blood and Bone,Tomi Adeyemi ,Fantasy,544,2018
+126,The Golden Notebook,Doris Lessing,Fiction,640,1962
+127,The Hero and the Crown,Robin McKinley,Fantasy,240,1984
+128,Gregor the Overlander,Suzanne Collins,Fantasy,326,2003
+129,Love Unscripted,Tina Reber ,Romance,668,2010
+130,Filth,Irvine Welsh,Fiction,393,1998
+131,Infinity,Sherrilyn Kenyon ,Young Adult,464,2010
+132,Money,Martin Amis,Fiction,394,1984
+133,The Moses Expedition,Juan Gomez-Jurado ,Thriller,386,2007
+134,All I Really Need to Know I Learned in Kindergarten,Robert Fulghum,Nonfiction,240,1988
+135,Harry Potter Collection,J.K. Rowling,Fantasy,3342,2005
+136,On Chesil Beach,Ian McEwan,Fiction,166,2007
+137,Death in Venice and Other Tales,Thomas Mann,Fiction,384,2011
+138,Night Embrace,Sherrilyn Kenyon ,Paranormal Romance,408,2003
+139,Night School,C.J. Daugherty ,Young Adult,454,2012
+140,The Enchantress Returns,Chris Colfer,Fantasy,517,2013
+141,Behind Closed Doors,B.A. Paris ,Thriller,293,2016
+142,Going Bovine,Libba Bray ,Young Adult,480,2009
+143,Eona: The Last Dragoneye,Alison Goodman ,Fantasy,637,2011
+144,Of Love and Other Demons,Gabriel García Márquez,Fiction,160,1994
+145,Time's Arrow,Martin Amis,Fiction,165,1991
+146,These Broken Stars,Amie Kaufman ,Young Adult,389,2013
+147,Styxx,Sherrilyn Kenyon ,Paranormal Romance,836,2013
+148,"Little, Big",John Crowley,Fantasy,538,1981
+149,The Bedroom Secrets of the Master Chefs,Irvine Welsh,Fiction,400,2006
+150,An Elephant Is On My House: And Other Poems,Othen Donald Dale Cummings ,Fiction,41,2014
+151,The Ancestor's Tale: A Pilgrimage to the Dawn of Evolution,Richard Dawkins ,Science,688,2004
+152,Harry Potter and the Methods of Rationality,Eliezer Yudkowsky ,Fantasy,2184,2015
+153,Fatherland,Robert Harris ,Fiction,380,1991
+154,The Children Act,Ian McEwan,Fiction,221,2014
+155,Devil May Cry,Sherrilyn Kenyon ,Paranormal Romance,320,2007
+156,Tipping the Velvet,Sarah Waters,Historical Fiction,472,1998
+157,Homage to Catalonia,George Orwell,History,232,1938
+158,Ocean Sea,Alessandro Baricco,Fiction,256,1993
+159,Of Poseidon,Anna Banks ,Fantasy,324,2012
+160,The Comfort of Strangers,Ian McEwan,Fiction,128,1981
+161,A Grimm Warning,Chris Colfer,Fantasy,448,2014
+162,Fantastic Beasts and Where to Find Them: The Original Screenplay,J.K. Rowling,Fantasy,280,2016
+163,Struck By Lightning: The Carson Phillips Journal,Chris Colfer,Young Adult,272,2012
+164,Cruel Beauty,Rosamund Hodge ,Fantasy,346,2014
+165,The Cost of Discipleship,Dietrich Bonhoeffer,Christian,320,1937
+166,A Fire Upon the Deep,Vernor Vinge,Science Fiction,613,1992
+167,Forsaken,Jana Oliver ,Young Adult,422,2011
+168,Silk,Alessandro Baricco,Fiction,91,1996
+169,Fragile Things: Short Fictions and Wonders,Neil Gaiman ,Fantasy,360,2006
+170,Crime,Irvine Welsh,Fiction,344,2008
+171,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,Daniel James Brown ,Nonfiction,404,2013
+172,The Twilight Saga Complete Collection,Stephenie Meyer,Fantasy,2752,2005
+173,Unleash the Night,Sherrilyn Kenyon ,Paranormal Romance,378,2005
+174,Brief Lives,Neil Gaiman ,Graphic Novels,256,1993
+175,The Sex Lives of Siamese Twins,Irvine Welsh,Fiction,468,2014
+176,Norse Mythology,Neil Gaiman ,Fantasy,301,2017
+177,Cancer Ward,Aleksandr Solzhenitsyn,Fiction,576,1968
+178,A Deepness in the Sky,Vernor Vinge,Science Fiction,775,1999
+179,Into the Water,Paula Hawkins ,Mystery,386,2017
+180,Glue,Irvine Welsh,Fiction,556,2001
+181,A Woman of Substance,Barbara Taylor Bradford ,Fiction,928,1979
+182,A Lesson Before Dying,Ernest J. Gaines,Fiction,256,1993
+183,Child of God,Cormac McCarthy,Fiction,197,1973
+184,Legendary,Stephanie Garber ,Fantasy,451,2018
+185,Way of the Peaceful Warrior: A Book That Changes Lives,Dan Millman,Spirituality,240,1980
+186,The God Complex,Chris Titus ,Thriller,278,2011
+187,Seize the Night,Sherrilyn Kenyon ,Paranormal Romance,339,2004
+188,The People of Sparks,Jeanne DuPrau,Young Adult,338,2004
+189,Every Dead Thing,John Connolly ,Mystery,467,1999
+190,The Information,Martin Amis,Fiction,374,1995
+191,First They Killed My Father: A Daughter of Cambodia Remembers,Loung Ung,Nonfiction,238,2000
+192,The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe Without Design,Richard Dawkins ,Science,466,1986
+193,The Total Money Makeover: A Proven Plan for Financial Fitness,Dave Ramsey,Nonfiction,229,1994
+194,Memories of My Melancholy Whores,Gabriel García Márquez,Fiction,115,2004
+195,This Boy's Life,Tobias Wolff,Memoir,304,1989
+196,"The Hobbit, Part One",J.R.R. Tolkien,Fantasy,230,1937
+197,The Moor's Last Sigh,Salman Rushdie,Fiction,434,1995
+198,Dry,Augusten Burroughs ,Memoir,293,2003
+199,The Ground Beneath Her Feet,Salman Rushdie,Fiction,576,1999
+200,Beyond the Kingdoms,Chris Colfer,Fantasy,433,2015
+201,Secret Daughter,Shilpi Somaya Gowda ,Fiction,339,2010
+202,Gregor and the Code of Claw,Suzanne Collins,Fantasy,412,2007
+203,The Butterfly Garden,Dot Hutchison,Thriller,288,2016
+204,Saturday,Ian McEwan,Fiction,289,2005
+205,Gemina,Amie Kaufman ,Science Fiction,659,2016
+206,We Are Okay,Nina LaCour ,Young Adult,236,2017
+207,The Poetic Edda,Unknown,Poetry,343,1970
+208,The Kindly Ones,Neil Gaiman ,Graphic Novels,352,1995
+209,Dark Side of the Moon,Sherrilyn Kenyon ,Paranormal Romance,353,2006
+210,Dead Wrong: Straight Facts on the Country's Most Controversial Cover-Ups,Richard Belzer,Nonfiction,336,2012
+211,Sideways Stories from Wayside School,Louis Sachar ,Childrens,144,1978
+212,Doctor Faustus,Thomas Mann,Fiction,535,1947
+213,Gregor and the Curse of the Warmbloods,Suzanne Collins,Fantasy,358,2005
+214,The Cement Garden,Ian McEwan,Fiction,144,1978
+215,"The Border Trilogy: All the Pretty Horses, The Crossing, Cities of the Plain",Cormac McCarthy,Fiction,1040,1994
+216,Season of Mists,Neil Gaiman ,Graphic Novels,217,1991
+217,Introducing Chomsky,John Maher,Philosophy,176,1993
+218,Bad Moon Rising,Sherrilyn Kenyon ,Paranormal Romance,352,2009
+219,Kiss of the Night,Sherrilyn Kenyon ,Paranormal Romance,368,2004
+220,Smoke and Mirrors: Short Fiction and Illusions,Neil Gaiman ,Fantasy,365,1998
+221,Funny in Farsi: A Memoir of Growing Up Iranian in America,Firoozeh Dumas,Memoir,240,2003
+222,Shame,Salman Rushdie,Fiction,287,1983
+223,Hold Still,Nina LaCour ,Young Adult,230,2009
+224,Cities of the Plain,Cormac McCarthy,Fiction,292,1998
+225,Rules of Prey,John Sandford,Mystery,479,1989
+226,The Twilight Saga: The Official Illustrated Guide,Stephenie Meyer,Young Adult,543,2011
+227,The Zookeeper's Wife,Diane Ackerman ,Nonfiction,368,2007
+228,The Night Watch,Sarah Waters,Historical Fiction,528,2006
+229,The Spectacular Now,Tim Tharp,Young Adult,304,2008
+230,Tenth of December,George Saunders,Short Stories,251,2013
+231,Dream Country,Neil Gaiman ,Graphic Novels,111,1990
+232,Love Unrehearsed,Tina Reber ,Romance,448,2012
+233,The Jewel,Amy Ewing,Young Adult,373,2014
+234,The Melancholy Death of Oyster Boy and Other Stories,Tim Burton,Poetry,115,1997
+235,Sir Gawain and the Green Knight,Unknown,Classics,144,1997
+236,The Little Stranger,Sarah Waters,Fiction,466,2009
+237,One Silent Night,Sherrilyn Kenyon ,Paranormal Romance,310,2008
+238,Lincoln in the Bardo,George Saunders,Fiction,343,2017
+239,Born of Night,Sherrilyn Kenyon ,Romance,539,1995
+240,Dead Babies,Martin Amis,Fiction,206,1975
+241,The Futurological Congress: From the Memoirs of Ijon Tichy,Stanisław Lem,Science Fiction,149,1971
+242,Civilization and Its Discontents,Sigmund Freud,Psychology,127,1930
+243,A Piece of Cake,Cupcake Brown,Nonfiction,472,2006
+244,Fire & Flood,Victoria Scott ,Young Adult,320,2014
+245,Finale,Stephanie Garber ,Fantasy,478,2019
+246,The Diamond of Darkhold,Jeanne DuPrau,Young Adult,293,2008
+247,The Ragged Trousered Philanthropists,Robert Tressell,Fiction,608,2014
+248,Affinity,Sarah Waters,Historical Fiction,352,1999
+249,Sins of the Night,Sherrilyn Kenyon ,Paranormal Romance,331,2005
+250,The Sandman: Endless Nights,Neil Gaiman ,Graphic Novels,160,2003
+251,The Enchanted April,Elizabeth von Arnim,Fiction,232,2022
+252,Freedom at Midnight,Larry Collins,History,629,1975
+253,"Zero to One: Notes on Startups, or How to Build the Future",Peter Thiel,Business,195,2014
+254,Scar Tissue,Anthony Kiedis,Music,465,2004
+255,Incidents in the Life of a Slave Girl,Harriet Ann Jacobs,Nonfiction,176,1961
+256,The Reivers,William Faulkner,Fiction,305,1962
+257,The Doll's House,Neil Gaiman ,Graphic Novels,232,1990
+258,The Elephant Whisperer,Lawrence Anthony,Nonfiction,368,2009
+259,The General in His Labyrinth,Gabriel García Márquez,Fiction,248,1989
+260,Keep the Aspidistra Flying,George Orwell,Fiction,277,1936
+261,A Game of You,Neil Gaiman ,Graphic Novels,192,1992
+262,Burmese Days,George Orwell,Fiction,276,1934
+263,Nightwood,Djuna Barnes,Fiction,182,1936
+264,Deerskin,Robin McKinley,Fantasy,384,1993
+265,Of Triton,Anna Banks ,Fantasy,246,2013
+266,Everything Leads to You,Nina LaCour ,Young Adult,307,2014
+267,Swallows and Amazons,Arthur Ransome,Classics,315,1930
+268,The 39 Steps,John Buchan,Fiction,100,2015
+269,Trigger Warning: Short Fictions and Disturbances,Neil Gaiman ,Fantasy,310,2015
+270,Beauty Queens,Libba Bray ,Young Adult,396,2011
+271,The Missing Piece,Shel Silverstein,Poetry,112,1976
+272,Path of Destruction,Drew Karpyshyn ,Star Wars,324,2007
+273,The Blank Slate: The Modern Denial of Human Nature,Steven Pinker ,Psychology,528,2002
+274,Fracture,C.J. Daugherty ,Young Adult,374,2013
+275,Dynasty of Evil,Drew Karpyshyn ,Star Wars,296,2009
+276,My Love Lies Bleeding,Alyxandra Harvey ,Vampires,248,2009
+277,Fables & Reflections,Neil Gaiman ,Graphic Novels,263,1993
+278,Dream Warrior,Sherrilyn Kenyon ,Paranormal Romance,314,2009
+279,Foretold,Jana Oliver ,Young Adult,438,2012
+280,The Book of Awesome,Neil Pasricha ,Nonfiction,393,2010
+281,Smack,Melvin Burgess,Young Adult,293,1996
+282,The Betrothed,Alessandro Manzoni,Classics,720,1940
+283,The Coffin Dancer,Jeffery Deaver ,Mystery,532,1998
+284,Born of Silence,Sherrilyn Kenyon ,Romance,614,2012
+285,Far from the Tree,Robin Benway ,Young Adult,374,2017
+286,Imperium: A Novel of Ancient Rome,Robert Harris ,Historical Fiction,305,2006
+287,Gregor and the Marks of Secret,Suzanne Collins,Fantasy,343,2006
+288,The Star Diaries: Further Reminiscences of Ijon Tichy,Stanisław Lem,Science Fiction,286,1971
+289,The Future of an Illusion,Sigmund Freud,Psychology,112,1927
+290,Aurora Rising,Amie Kaufman ,Science Fiction,473,2019
+291,The Girl Who Was Supposed to Die,April Henry ,Young Adult,213,2013
+292,Me & Emma,Elizabeth Flock ,Fiction,296,2005
+293,Unfinished Tales of Númenor and Middle-Earth,J.R.R. Tolkien,Fantasy,452,1980
+294,The Missing Piece Meets the Big O,Shel Silverstein,Childrens,104,1981
+295,The Paying Guests,Sarah Waters,Historical Fiction,564,2014
+296,The Greatest Show on Earth: The Evidence for Evolution,Richard Dawkins ,Science,470,2009
+297,The Prophet of Yonwood,Jeanne DuPrau,Young Adult,289,2006
+298,Blood Feud,Alyxandra Harvey ,Vampires,272,2010
+299,"Girl, Stolen",April Henry ,Young Adult,213,2010
+300,"Audrey, Wait!",Robin Benway ,Young Adult,313,2008
+301,A Night to Remember,Walter Lord,History,208,1955
+302,The Ballad of Songbirds and Snakes,Suzanne Collins,Young Adult,439,2020
+303,Gregor and the Prophecy of Bane,Suzanne Collins,Fantasy,312,2004
+304,Coming Up for Air,George Orwell,Fiction,278,1939
+305,One Week Girlfriend,Monica Murphy ,New Adult,274,2013
+306,The Cyberiad,Stanisław Lem,Science Fiction,295,1965
+307,Hunger: A Memoir of (My) Body,Roxane Gay ,Nonfiction,306,2017
+308,Invincible,Sherrilyn Kenyon ,Young Adult,420,2011
+309,The Harry Potter trilogy,J.K. Rowling,Fantasy,900,1999
+310,Skippy Dies,Paul Murray,Fiction,661,2010
+311,Death: The High Cost of Living,Neil Gaiman ,Graphic Novels,104,1993
+312,Eating Smoke: One Man's Descent Into Crystal Meth Psychosis in Hong Kong's Triad Heartland,Chris Thrall ,Nonfiction,420,2011
+313,Song of the Sparrow,Lisa Ann Sandell ,Historical Fiction,394,2007
+314,Taming the Blowing Wind,Teresa Garcia ,Fantasy,304,2006
+315,In Praise of Shadows,Jun'ichirō Tanizaki,Nonfiction,56,1933
+316,Wayside School Is Falling Down,Louis Sachar ,Childrens,152,1989
+317,Innocent Erendira and Other Stories,Gabriel García Márquez,Short Stories,192,1972
+318,"Harry Potter Boxed Set, Books 1-5 (Harry Potter, #1-5)",J.K. Rowling,Fantasy,2690,2003
+319,Marabou Stork Nightmares,Irvine Welsh,Fiction,288,1995
+320,Life,Keith Richards,Music,564,2010
+321,Six Months Later,Natalie D. Richards ,Young Adult,323,2013
+322,Outer Dark,Cormac McCarthy,Fiction,256,1968
+323,The Wake,Neil Gaiman ,Graphic Novels,191,1996
+324,Change Your Thoughts - Change Your Life: Living the Wisdom of the Tao,Wayne W. Dyer,Self Help,392,2007
+325,Ultraviolet,R.J. Anderson ,Young Adult,415,2011
+326,Worlds Collide,Chris Colfer,Fantasy,480,2017
+327,"A Severe Mercy: A Story of Faith, Tragedy and Triumph",Sheldon Vanauken,Nonfiction,240,1977
+328,Swamplandia!,Karen Russell ,Fiction,418,2011
+329,Waking Up Married,Mira Lyn Kelly ,Romance,251,2012
+330,Plantation,Dorothea Benton Frank,Fiction,449,2001
+331,Second Chance Boyfriend,Monica Murphy ,New Adult,210,2013
+332,An Author's Odyssey,Chris Colfer,Fantasy,448,2016
+333,Enduring Love,Ian McEwan,Fiction,245,1997
+334,Come Away with Me,Kristen Pro,Romance,324,2012
+335,Frida: A Biography of Frida Kahlo,Hayden Herrera,Biography,528,1983
+336,"Julie and Julia: 365 Days, 524 Recipes, 1 Tiny Apartment Kitchen",Julie Powell,Nonfiction,310,2005
+337,The Pigeon,Patrick Süskind,Fiction,77,1987
+338,Manchild in the Promised Land,Claude Brown,Nonfiction,416,1965
+339,Infamous,Sherrilyn Kenyon ,Young Adult,468,2012
+340,"Holy Blood, Holy Grail",Michael Baigent,Nonfiction,496,1982
+341,You Know Me Well,Nina LaCour ,Young Adult,248,2016
+342,Midnight Sun,Stephenie Meyer,Fantasy,662,2020
+343,"The Color Code: A New Way to See Yourself, Your Relationships, and Life",Taylor Hartman,Self Help,288,1987
+344,Out of the Easy,Ruta Sepetys ,Historical Fiction,348,2013
+345,A Brief History of Seven Killings,Marlon James,Fiction,688,2014
+346,There's a Boy in the Girls' Bathroom,Louis Sachar ,Fiction,195,1987
+347,Forgiven,Jana Oliver ,Fantasy,354,2012
+348,"Kiss Me, Judas",Will Christopher Baer,Fiction,316,1998
+349,Retribution,Sherrilyn Kenyon ,Paranormal Romance,369,2011
+350,Between The Lines: Volumes of Words Unspoken,Céline Zabad,Poetry,390,2018
+351,Legacy,C.J. Daugherty ,Young Adult,385,2012
+352,Playlist for the Dead,Michelle Falkoff ,Young Adult,288,2015
+353,The Dante Club,Matthew Pearl ,Mystery,424,2003
+354,Forbidden,Jana Oliver ,Young Adult,418,2010
+355,Strange Pilgrims,Gabriel García Márquez,Short Stories,208,1992
+356,The Guardian,Sherrilyn Kenyon ,Paranormal Romance,345,2011
+357,The Keeper of Lost Causes,Jussi Adler-Olsen,Mystery,400,2007
+358,Worlds' End,Neil Gaiman ,Graphic Novels,160,1993
+359,Superman: Red Son,Mark Millar ,Comics,160,2003
+360,Strangers on a Train,Patricia Highsmith,Fiction,281,1950
+361,The Dream Hunter,Sherrilyn Kenyon ,Paranormal Romance,340,2007
+362,Out for Blood,Alyxandra Harvey ,Vampires,292,2010
+363,The Ascent of Man,Jacob Bronowski,Science,520,1973
+364,Rationality: From AI to Zombies,Eliezer Yudkowsky ,Philosophy,1813,2015
+365,Rocket Boys,Homer Hickam ,Nonfiction,384,1998
+366,Sora's Quest,T.L. Shreffler ,Fantasy,250,2012
+367,The Trees,Ali Shaw ,Fantasy,488,2016
+368,The Sea of Trolls,Nancy Farmer ,Fantasy,459,2004
+369,Damaged Like Us,Krista Ritchie ,Romance,378,2017
+370,The First Circle,Aleksandr Solzhenitsyn,Fiction,580,1968
+371,"The Gulag Archipelago, 1918-1956: An Experiment in Literary Investigation, Books I-II",Aleksandr Solzhenitsyn,History,660,1973
+372,The Hamlet,William Faulkner,Fiction,409,1940
+373,The Goblin Emperor,Katherine Addison ,Fantasy,446,2014
+374,The Incal,Alejandro Jodorowsky,Comics,307,1981
+375,The Grass Is Singing,Doris Lessing,Fiction,208,1950
+376,The Omen,David Seltzer,Horror,272,1976
+377,John Lennon: The Life,Philip Norman,Biography,851,2008
+378,"The Biology of Belief: Unleashing the Power of Consciousness, Matter and Miracles",Bruce H. Lipton ,Nonfiction,205,2005
+379,The Saving Graces,Patricia Gaffney,Fiction,416,1999
+380,The Stolen Throne,David Gaider,Fantasy,400,2009
+381,House of Secrets,Chris Columbus,Fantasy,490,2013
+382,Blood Moon,Alyxandra Harvey ,Vampires,320,2012
+383,Bad Feminist,Roxane Gay ,Nonfiction,320,2014
+384,Prisoner of Tehran,Marina Nemat ,Nonfiction,306,2007
+385,The Drama of the Gifted Child: The Search for the True Self,Alice Miller,Psychology,144,1979
+386,Addicted to You,Krista Ritchie ,New Adult,324,2013
+387,Born of Betrayal,Sherrilyn Kenyon ,Romance,512,2015
+388,The Queen of All that Dies,Laura Thalassa ,New Adult,326,2015
+389,Lovers Like Us,Krista Ritchie ,Romance,440,2017
+390,Lamb in His Bosom,Caroline Miller,Historical Fiction,357,1933
+391,Balzac and the Little Chinese Seamstress,Dai Sijie,Fiction,184,2000
+392,Reheated Cabbage,Irvine Welsh,Fiction,288,2009
+393,How the Mind Works,Steven Pinker ,Psychology,660,1997
+394,The Sandman: The Dream Hunters,Neil Gaiman ,Graphic Novels,128,1999
+395,Tales of Pirx the Pilot,Stanisław Lem,Science Fiction,206,1961
+396,The Journeys of Socrates,Dan Millman,Fiction,336,2005
+397,The Autumn of the Patriarch,Gabriel García Márquez,Fiction,255,1975
+398,Take This Regret,Amy Lichtenhan ,Romance,298,2011
+399,Time Untime,Sherrilyn Kenyon ,Paranormal Romance,414,2012
+400,A Decent Ride,Irvine Welsh,Fiction,496,2015
+401,Tonio Kröger,Thomas Mann,Classics,67,2003
+402,Fantastic Beasts - The Crimes of Grindelwald: The Original Screenplay,J.K. Rowling,Fantasy,304,2018
+403,Struck,Jennifer Bosworth ,Young Adult,373,2012
+404,"The Book of Lost Tales, Part One",J.R.R. Tolkien,Fantasy,367,1984
+405,Totem and Taboo,Sigmund Freud,Psychology,224,2013
+406,Joseph and His Brothers,Thomas Mann,Fiction,1492,1943
+407,The Power of Intention: Learning to Co-create Your World Your Way,Wayne W. Dyer,Self Help,272,2004
+408,Parallel Lives,Plutarch,History,1309,2000
+409,The White Devil,Justin Evans ,Horror,364,2011
+410,The Nibelungenlied,Unknown,Classics,404,2000
+411,Darth Plagueis,James Luceno,Star Wars,379,2012
+412,Runny Babbit: A Billy Sook,Shel Silverstein,Poetry,96,2005
+413,Wanted,Mark Millar ,Comics,192,2005
+414,Born of Shadows,Sherrilyn Kenyon ,Romance,418,2011
+415,Inevitable,Angela Graham ,Romance,320,2013
+416,Trumpet,Jackie Kay ,Fiction,278,1998
+417,The Calling,David Gaider,Fantasy,444,2009
+418,The White Road,John Connolly ,Mystery,503,2003
+419,Old School,Tobias Wolff,Fiction,196,2003
+420,Anne Rice's The Vampire Lestat: A Graphic Novel,Faye Perozich,Horror,404,1989
+421,Dream Chaser,Sherrilyn Kenyon ,Paranormal Romance,359,2008
+422,Be Here Now,Ram Dass,Spirituality,416,1971
+423,Finding Serendipity,Angelica Banks ,Fantasy,288,2013
+424,Eden,Stanisław Lem,Science Fiction,276,1959
+425,The Enchanted Barn,Grace Livingston Hill,Romance,248,2018
+426,"The Ear, the Eye, and the Arm",Nancy Farmer ,Young Adult,311,1994
+427,Marvel 1602,Neil Gaiman ,Graphic Novels,248,2003
+428,A Rose for Emily and Other Stories,William Faulkner,Classics,140,1930
+429,Tied,Emma Chase ,Romance,256,2014
+430,Knife,R.J. Anderson ,Fantasy,320,2009
+431,Pompeii,Robert Harris ,Historical Fiction,274,2003
+432,Twisted,Emma Chase ,Romance,272,2014
+433,The Return of the Prodigal Son: A Story of Homecoming,Henri J.M. Nouwen,Christian,160,1991
+434,Shalimar the Clown,Salman Rushdie,Fiction,398,2005
+435,Peter the Great: His Life and World,Robert K. Massie,History,909,1980
+436,Elective Affinities,Johann Wolfgang von Goethe,Classics,272,1999
+437,Black Unicorn,Tanith Lee,Fantasy,138,1991
+438,Endgame,C.J. Daugherty ,Young Adult,375,2015
+439,Kaden,Synne Jakobsen ,Paranormal,343,2015
+440,"Unweaving the Rainbow: Science, Delusion and the Appetite for Wonder",Richard Dawkins ,Science,352,1998
+441,Haunting Violet,Alyxandra Harvey ,Young Adult,342,2011
+442,Catherine the Great: Portrait of a Woman,Robert K. Massie,History,625,2011
+443,The Akhenaten Adventure,P.B. Kerr,Fantasy,384,2004
+444,Party Monster: A Fabulous But True Tale of Murder in Clubland,James St. James,Nonfiction,287,1999
+445,"The Book of Lost Tales, Part Two",J.R.R. Tolkien,Fantasy,391,1984
+446,The Romanovs: The Final Chapter,Robert K. Massie,History,320,1995
+447,The Chemist,Stephenie Meyer,Fiction,521,2016
+448,The Cricket in Times Square,George Selden,Childrens,134,1960
+449,Harry Potter Schoolbooks Box Set: Two Classic Books from the Library of Hogwarts School of Witchcraft and Wizardry,J.K. Rowling,Fantasy,240,2001
+450,Possible Side Effects,Augusten Burroughs ,Memoir,291,2006
+451,Collected Stories,William Faulkner,Short Stories,900,1948
+452,"Faust, Part Two",Johann Wolfgang von Goethe,Classics,304,1932
+453,The Secret of the Sundance Caves,Sharla Shangeling ,Young Adult,296,2008
+454,"One, Two ... He Is Coming For You",Willow Rose ,Mystery,274,2011
+455,Ransom,David Malouf,Fiction,224,2009
+456,Henry's Sisters,Cathy Lamb ,Fiction,439,2009
+457,Pieces of You,Tablo,Short Stories,229,2009
+458,A Gateway to Hope,E.C. Jackson ,Romance,294,2015
+459,The Unfastened Heart,Lane von Herzen ,Fiction,256,1994
+460,Flame of Destiny,Colleen Helme ,Fantasy,252,2011
+461,Dreadnought,Robert K. Massie,History,1040,1991
+462,Two Hundred Years Together,Aleksandr Solzhenitsyn,History,539,2002
+463,The Story About Ping,Marjorie Flack,Picture Books,32,1933
+464,Instructions,Neil Gaiman ,Fantasy,40,2010
+465,Soldier X,Don L. Wulffson,Historical Fiction,240,2001
+466,Viper's Creed,T.L. Shreffler ,Fantasy,301,2012
+467,A Map of the Known World,Lisa Ann Sandell ,Young Adult,272,2009
+468,Carrots,Colleen Helme ,Mystery,302,2011
+469,Songbird,Colleen Helme ,Fantasy,188,2010
+470,Convivium,Andrew E. Maugham,Fiction,552,2006
+471,Conspirata,Robert Harris ,Historical Fiction,340,2009
+472,Good Night Stories for Rebel Girls: 100 Tales of Extraordinary Women,Elena Favilli ,Nonfiction,212,2016
+473,Empress of All Seasons,Emiko Jean ,Fantasy,384,2018
+474,Finding Fish,Antwone Quenton Fisher,Nonfiction,352,2001
+475,We Didn't Mean to Go to Sea,Arthur Ransome,Fiction,352,1937
+476,Johnno,David Malouf,Fiction,256,1975
+477,Unsaid,Neil Abramson,Fiction,353,2011
+478,Born of Defiance,Sherrilyn Kenyon ,Romance,518,2015
+479,The Postmistress,Sarah Blake ,Historical Fiction,11,2009
+480,The Doctor's Wife,Elizabeth Brundage,Fiction,342,2004
+481,InterWorld,Neil Gaiman ,Fantasy,239,2007
+482,Jesus Among Other Gods: The Absolute Claims of the Christian Message,Ravi Zacharias,Christian,208,2000
+483,Six Thinking Hats,Edward de Bono,Business,177,1981
+484,Sullivan's Island,Dorothea Benton Frank,Fiction,464,1999
+485,The Color of Your Skin Ain't the Color of Your Heart,Michael R. Phillips,Historical Fiction,314,2003
+486,A Girl Named Disaster,Nancy Farmer ,Young Adult,320,1996
+487,Magic to the Bone,Devon Monk ,Urban Fantasy,355,2008
+488,Doing It,Melvin Burgess,Young Adult,326,2003
+489,Royally Screwed,Emma Chase ,Romance,276,2016
+490,The Lotus and the Cross: Jesus Talks with Buddha,Ravi Zacharias,Christian,96,2001
+491,Everybody Say Amen,ReShonda Tate Billingsley,Christian Fiction,283,2007
+492,We'll Never Be Apart,Emiko Jean ,Young Adult,279,2015
+493,Report from Engine Co. 82,Dennis Smith ,Nonfiction,240,1972
+494,The Sunset Limited,Cormac McCarthy,Fiction,160,2006
+495,Now You See Me,Sharon J. Bolton ,Mystery,400,2011
+496,The Binding,Bridget Collins ,Fantasy,437,2019
+497,Return to Sullivan's Island,Dorothea Benton Frank,Fiction,400,2009
+498,I Am Ozzy,Ozzy Osbourne,Music,391,2009
+499,Gomorrah,Roberto Saviano,Nonfiction,320,2006
+500,Water Falls Down,Danielle Rohr ,Young Adult,265,2013
+501,The Blood of Flowers,Anita Amirrezvani ,Historical Fiction,368,2007
+502,The Collector,Victoria Scott ,Young Adult,352,2013
+503,The Books of Magic,Neil Gaiman ,Comics,200,1993
+504,Revan,Drew Karpyshyn ,Star Wars,289,2011
+505,The Invincible,Stanisław Lem,Science Fiction,223,1964
+506,Born of Fire,Sherrilyn Kenyon ,Romance,540,1996
+507,Mélusine,Sarah Monette ,Fantasy,477,2005
+508,Winter Prey,John Sandford,Mystery,400,1993
+509,Annihilation,Drew Karpyshyn ,Star Wars,286,2012
+510,The Hogwarts Library,J.K. Rowling,Fantasy,296,2012
+511,The Island at the Center of the World: The Epic Story of Dutch Manhattan and the Forgotten Colony That Shaped America,Russell Shorto ,History,384,2004
+512,Asunder,David Gaider,Fantasy,416,2011
+513,The Book of Night Women,Marlon James,Historical Fiction,417,2009
+514,Pastoralia,George Saunders,Short Stories,188,2000
+515,Kill Me Softly,Sarah Cross ,Fantasy,336,2012
+516,Cocaine,Pitigrilli,Fiction,261,2022
+517,The Fountains of Silence,Ruta Sepetys ,Historical Fiction,512,2019
+518,The Manufacture of Madness,Thomas Szasz,Psychology,406,1970
+519,The Unwanted: A Memoir of Childhood,Kien Nguyen,Nonfiction,343,2002
+520,Little Girl Gone,Brett Battles ,Mystery,263,2011
+521,The Daydreamer,Ian McEwan,Fiction,192,1994
+522,Nearly Gone,Elle Cosimano ,Young Adult,386,2014
+523,The Day I Swapped My Dad for Two Goldfish,Neil Gaiman ,Picture Books,64,1997
+524,I Am Not Esther,Fleur Beale,Young Adult,256,1998
+525,Sanctuary,William Faulkner,Fiction,317,1931
+526,The Poe Shadow,Matthew Pearl ,Historical Fiction,367,2006
+527,The Blue Djinn of Babylon,P.B. Kerr,Fantasy,371,2005
+528,53 Letters for My Lover,Leylah Attar ,Romance,396,2014
+529,Dancing on Broken Glass,Ka Hancock ,Fiction,394,2012
+530,Labyrinth of Evil,James Luceno,Star Wars,370,2005
+531,Conclave,Robert Harris ,Fiction,287,2016
+532,Wilhelm Meister's Apprenticeship,Johann Wolfgang von Goethe,Fiction,396,1995
+533,Elizabeth and Her German Garden,Elizabeth von Arnim,Classics,207,1998
+534,Mass Effect: Revelation,Drew Karpyshyn ,Science Fiction,323,2007
+535,"The Sandman Omnibus, Vol. 1",Neil Gaiman ,Graphic Novels,1040,2013
+536,Inspiration: Your Ultimate Calling,Wayne W. Dyer,Self Help,272,2006
+537,Mass Effect: Ascension,Drew Karpyshyn ,Science Fiction,342,2008
+538,Tales from the Perilous Realm,J.R.R. Tolkien,Fantasy,178,1949
+539,Small Steps,Louis Sachar ,Young Adult,257,2006
+540,Crimson Bound,Rosamund Hodge ,Fantasy,448,2015
+541,The Killing Kind,John Connolly ,Mystery,436,2001
+542,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",Michael Azerrad,Music,522,2001
+543,Mass Effect: Retribution,Drew Karpyshyn ,Science Fiction,356,2010
+544,The Falconer,Elizabeth May ,Fantasy,378,2013
+545,News of a Kidnapping,Gabriel García Márquez,Nonfiction,291,1996
+546,A Gathering of Old Men,Ernest J. Gaines,Fiction,214,1983
+547,Living to Tell the Tale,Gabriel García Márquez,Nonfiction,496,2002
+548,The Girl With Glass Feet,Ali Shaw ,Fantasy,292,2009
+549,"Start: Punch Fear in the Face, Escape Average and Do Work that Matters",Jon Acuff ,Nonfiction,288,2013
+550,The Vanishing Throne,Elizabeth May ,Fantasy,362,2015
+551,Eleven Things I Promised,Catherine Clark ,Young Adult,304,2016
+552,"Re: Colonised Planet 5, Shikasta",Doris Lessing,Science Fiction,365,1979
+553,Life & Laughing: My Story,Michael McIntyre,Nonfiction,294,2010
+554,Going Under,S. Walden,New Adult,344,2013
+555,Dull Boy,Sarah Cross ,Young Adult,308,2009
+556,Six Wives: The Queens of Henry VIII,David Starkey,History,880,2003
+557,The Baker's Boy,J.V. Jones,Fantasy,552,1995
+558,The Innocent,Ian McEwan,Fiction,226,1990
+559,Mara and Dann,Doris Lessing,Fiction,407,1999
+560,London Fields,Martin Amis,Fiction,526,1989
+561,Robin: Lady of Legend (The Classic Adventures of the Girl Who Became Robin Hood),R.M. ArceJaeger ,Fantasy,382,2012
+562,Mario and the Magician,Thomas Mann,Classics,47,1929
+563,Memoirs of a Space Traveler: Further Reminiscences of Ijon Tichy,Stanisław Lem,Science Fiction,153,1957
+564,His Master's Voice,Stanisław Lem,Science Fiction,199,1968
+565,Lair of Dreams,Libba Bray ,Fantasy,613,2015
+566,The Disenchantments,Nina LaCour ,Young Adult,310,2012
+567,The Extended Phenotype: The Long Reach of the Gene,Richard Dawkins ,Science,336,1982
+568,Sweet Tooth,Ian McEwan,Fiction,320,2012
+569,The Queen Is Dead,Kate Locke ,Steampunk,333,2013
+570,An Officer and a Spy,Robert Harris ,Historical Fiction,429,2013
+571,CivilWarLand in Bad Decline,George Saunders,Short Stories,179,1996
+572,"Giant Days, Vol. 1",John Allison ,Graphic Novels,112,2015
+573,This Shattered World,Amie Kaufman ,Science Fiction,394,2014
+574,Wyvern,A.A. Attanasio ,Fantasy,693,1988
+575,Fiasco,Stanisław Lem,Science Fiction,322,1986
+576,Rule of Two,Drew Karpyshyn ,Star Wars,318,2007
+577,Introductory Lectures on Psychoanalysis,Sigmund Freud,Psychology,560,2017
+578,"The Cardturner: A Novel about a King, a Queen, and a Joker",Louis Sachar ,Young Adult,336,2010
+579,Upon the Midnight Clear,Sherrilyn Kenyon ,Paranormal Romance,282,2007
+580,Rose Daughter,Robin McKinley,Fantasy,304,1997
+581,Typical American,Gish Jen ,Fiction,304,1991
+582,The Constantine Codex,Paul L. Maier,Fiction,394,2011
+583,No One Writes to the Colonel and Other Stories,Gabriel García Márquez,Fiction,170,1961
+584,Dragonbane,Sherrilyn Kenyon ,Paranormal,320,2015
+585,The Various Flavors of Coffee,Anthony Capella,Fiction,384,2008
+586,Wayside School Gets A Little Stranger,Louis Sachar ,Childrens,176,1995
+587,The Tragical Comedy or Comical Tragedy of Mr. Punch,Neil Gaiman ,Graphic Novels,96,1994
+588,Tuva or Bust!: Richard Feynman's Last Journey,Ralph Leighton,Biography,272,1991
+589,The Enchantress of Florence,Salman Rushdie,Fiction,359,2008
+590,The Faraday Girls,Monica McInerney ,Fiction,564,2007
+591,Tamed,Emma Chase ,Romance,256,2014
+592,The Summer Before the Dark,Doris Lessing,Fiction,236,1973
+593,Inferno,Sherrilyn Kenyon ,Young Adult,451,2013
+594,"Love, Dishonor, Marry, Die, Cherish, Perish",David Rakoff,Poetry,128,2013
+595,Buried Prey,John Sandford,Mystery,390,2011
+596,Amy Snow,Tracy Rees,Historical Fiction,551,2015
+597,Leaf Storm and Other Stories,Gabriel García Márquez,Fiction,146,1955
+598,The Magic of Reality: How We Know What's Really True,Richard Dawkins ,Science,271,2011
+599,Intruder in the Dust,William Faulkner,Fiction,247,1948
+600,"Fortunately, the Milk",Neil Gaiman ,Fantasy,113,2013
+601,Snopes,William Faulkner,Fiction,1072,1959
+602,The Language Instinct: How the Mind Creates Language,Steven Pinker ,Nonfiction,448,1994
+603,Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination,J.K. Rowling,Nonfiction,74,2015
+604,Arrow of God,Chinua Achebe,Fiction,230,1964
+605,The Monsters and the Critics and Other Essays,J.R.R. Tolkien,Nonfiction,240,1983
+606,The Wolves in the Walls,Neil Gaiman ,Fantasy,56,2003
+607,From Pack to Pride,Amber Kell,M M Romance,69,2011
+608,Chalice,Robin McKinley,Fantasy,265,2008
+609,Rock with Me,Kristen Pro,Romance,196,2013
+610,Is Your Mama a Llama?,Deborah Guarino,Picture Books,28,1989
+611,Vacations from Hell,Libba Bray ,Young Adult,280,2009
+612,Eyes of Prey,John Sandford,Mystery,454,1991
+613,One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society,Herbert Marcuse,Philosophy,320,1964
+614,The Road to Wigan Pier,George Orwell,Nonfiction,215,1937
+615,Enigma,Robert Harris ,Historical Fiction,374,1995
+616,Comeback: A Mother and Daughter's Journey Through Hell and Back,Claire Fontaine,Memoir,311,2006
+617,An Oblique Approach,David Drake,Science Fiction,467,1998
+618,The Islands of the Blessed,Nancy Farmer ,Fantasy,479,2009
+619,Pulled,Amy Lichtenhan ,Romance,388,2011
+620,The Land of the Silver Apples,Nancy Farmer ,Fantasy,496,2007
+621,The Fall of Arthur,J.R.R. Tolkien,Fantasy,233,2013
+622,The Sweetest Dream,Doris Lessing,Fiction,480,2001
+623,Overruled,Emma Chase ,Romance,272,2015
+624,The Body in the Woods,April Henry ,Mystery,263,2014
+625,Harry Potter: The Prequel,J.K. Rowling,Fantasy,4,2008
+626,Remembering Babylon,David Malouf,Fiction,200,1993
+627,The Darwin Awards: Evolution in Action,Wendy Northcutt,Humor,352,2000
+628,Barkbelly,Cat Weatherill,Fantasy,320,2005
+629,Doubting Jesus' Resurrection: What Happened in the Black Box?,Kris D. Komarnitsky,Religion,186,2009
+630,The Stolen Moon of Londor,A.P. Stephens ,Fantasy,296,2009
+631,Eniac: The Triumphs and Tragedies of the World's First Computer,Scott McCartney,History,262,1999
+632,"lizards, frogs, and polliwogs",Douglas Florian ,Poetry,48,2001
+633,Time's Edge,J.M. Dattilo ,Science Fiction,320,2010
+634,The Relic,Colleen Helme ,Fantasy,212,2011
+635,Heartstone: A Journey out of the midnight of my soul,Tim Young ,Christian,182,2011
+636,Solacers,Arion Golmakani ,Nonfiction,297,2012
+637,Dragon Fire,Pedro L. Alvarez ,Fantasy,267,2012
+638,Sellevision,Augusten Burroughs ,Fiction,229,2000
+639,"George Orwell Omnibus: The Complete Novels: Animal Farm, Burmese Days, A Clergyman's Daughter, Coming up for Air, Keep the Aspidistra Flying, and Nineteen Eighty-Four",George Orwell,Fiction,925,1960
+640,How to be Death,Amber Benson ,Urban Fantasy,292,2012
+641,The Great Wolf,Devyn Dawson ,Young Adult,264,2014
+642,"Steam Drills, Treadmills and Shooting Stars - a story of our times -",Rivera Sun ,Fiction,417,2013
+643,Born in Flames,Candace Knoebel ,Fantasy,259,2012
+644,John 3:16,Nancy Moser ,Christian Fiction,410,2008
+645,The Blood Lure,Peter Meredith ,Fantasy,300,2012
+646,Deep Winter,Samuel W. Gailey ,Mystery,304,2014
+647,A Cavern of Black Ice,J.V. Jones,Fantasy,769,1999
+648,Equal of the Sun,Anita Amirrezvani ,Historical Fiction,431,2012
+649,The Ambitious Madame Bonaparte,Ruth Hull Chatlien ,Historical Fiction,496,2013
+650,"Madame Lilly, Voodoo Priestess",Dormaine G. ,Historical Fiction,43,2014
+651,Sealed with a Curse,Cecy Robson ,Urban Fantasy,360,2012
+652,Connor,Dormaine G. ,Fantasy,258,2013
+653,Resistance,C.J. Daugherty ,Young Adult,393,2014
+654,Bird,Tami Egonu ,Historical Fiction,304,2013
+655,Cat's Eye,T.L. Shreffler ,Fantasy,416,2008
+656,Dragon Age: The World of Thedas Volume 1,David Gaider,Fantasy,184,2013
+657,The Innovator's Solution: Creating and Sustaining Successful Growth,Clayton M. Christensen,Business,320,2003
+658,The Cornered Cat: A Woman's Guide to Concealed Carry,Kathy Jackson,Nonfiction,396,2010
+659,"Dark Confessions of an Extraordinary, Ordinary Woman",Jenn Sadai ,Fiction,103,2014
+660,Hot Flashes & Cold Lemonade,Susan Flett Swiderski ,Fiction,282,2013
+661,He Mele A Hilo (A Hilo Song),Ryka Aoki ,Fiction,310,2014
+662,Gods in Oslo,John Plaski ,Science Fiction,488,2015
+663,Seeing Off the Johns,Rene S. Perez II,Fiction,256,2015
+664,An Inkling Hope: Select Poems,Erin A. Thomas ,Poetry,210,2014
+665,Seasons of Love and War,Brenda Ashworth Barry,Romance,283,2014
+666,The Secret Message of Jesus: Uncovering the Truth That Could Change Everything,Brian D. McLaren,Religion,237,2006
+667,Skywater,Melinda Worth Popham ,Fiction,206,1990
+668,The Ugly,Alexander Boldizar ,Fiction,365,2016
+669,Born of Legend,Sherrilyn Kenyon ,Romance,736,2016
+670,Let the Church Say Amen,ReShonda Tate Billingsley,Christian Fiction,277,2004
+671,The Weaver of Odds,Louise Blackwick ,Fantasy,296,2017
+672,Another,Yukito Ayatsuji,Horror,496,2009
+673,Philosophy For Dummies,Martin Cohen ,Philosophy,432,2010
+674,Never Evers,Tom Ellen,Romance,268,2016
+675,"Crazy Is My Superpower: How I Triumphed by Breaking Bones, Breaking Hearts, and Breaking the Rules",A.J. Mendez Brooks ,Nonfiction,288,2017
+676,Tainaron: Mail from Another City,Leena Krohn,Fantasy,128,1985
+677,The Awakening of Ren Crown,Anne Zoelle ,Fantasy,388,2012
+678,Alphas Like Us,Krista Ritchie ,Romance,489,2018
+679,"A Matter of Time, Vol. 1",Mary Calmes ,M M Romance,280,2010
+680,Strange as This Weather Has Been,Ann Pancake,Fiction,357,2007
+681,The Children of the Sky,Vernor Vinge,Science Fiction,704,2011
+682,Bound to the Dark Prince,Aria Lovely,Fantasy,255,2020
+683,Chang and Eng,Darin Strauss,Historical Fiction,336,2000
+684,Financial Peace Revisited,Dave Ramsey,Nonfiction,352,1992
+685,Angels Watching Over Me,Michael R. Phillips,Historical Fiction,316,2003
+686,The Death of King Arthur,Unknown,Classics,235,1937
+687,Solar,Ian McEwan,Fiction,287,2010
+688,The Last Men Out: Life on the Edge at Rescue 2 Firehouse,Tom Downey,Nonfiction,320,2004
+689,The Green Gauntlet,R.F. Delderfield,Historical Fiction,510,1966
+690,Abandonment to Divine Providence: The Classic Text with a Spiritual Commentary,Jean-Pierre de Caussade,Spirituality,205,1961
+691,Wild Magic,Cat Weatherill,Fantasy,256,2007
+692,The Asfari's Reawakening,Susan Fadellin ,Fantasy,372,2011
+693,The Cave of Moving Shadows,Thomas Millstead,Historical Fiction,213,1979
+694,Serpent's Storm,Amber Benson ,Urban Fantasy,309,2011
+695,Malevolence,Devyn Dawson ,Young Adult,257,2012
+696,Disney's Darkwing Duck The Silly Canine Caper (A Little Golden Book),Justine Korman Fontes,Picture Books,24,1992
+697,How Will You Measure Your Life?,Clayton M. Christensen,Nonfiction,240,2012
+698,A Medical Affair,Anne McCarthy Strauss ,Fiction,325,2013
+699,The Legend of Sigurd & Gudrún,J.R.R. Tolkien,Fantasy,384,2009
+700,A Cursed Embrace,Cecy Robson ,Urban Fantasy,368,2013
+701,One Square Mile of Hell: The Battle for Tarawa,John F. Wukovits,History,352,2006
+702,An Appetite for Wonder: The Making of a Scientist,Richard Dawkins ,Science,304,2013
+703,Brighter than a Thousand Suns: A Personal History of the Atomic Scientists,Robert Jungk,Science,384,1956
+704,The Fifth Miracle: The Search for the Origin and Meaning of Life,Paul Davies,Science,304,1999
+705,Elysium,Jennifer Marie Brissett ,Science Fiction,199,2014
+706,All Things Cease to Appear,Elizabeth Brundage,Fiction,400,2016
+707,December Road,Brenda Ashworth Barry,Romance,264,2014
+708,Twilight / Life and Death,Stephenie Meyer,Young Adult,738,2015
+709,Hottie,Jonathan Bernstein ,Young Adult,320,2009
+710,Phantom Lover,Sherrilyn Kenyon ,Romance,91,2003
+711,Forever,Monica Murphy ,Romance,221,2017
+712,Impossible Things,Kate Johnson ,Fantasy,356,2014
+713,Philosophy and the Adventure of the Virtual: Bergson and the Time of Life,Keith Ansell-Pearson,Philosophy,246,2001
+714,The Protection of Ren Crown,Anne Zoelle ,Fantasy,428,2014
+715,The Road Back to You: An Enneagram Journey to Self-Discovery,Ian Morgan Cron ,Nonfiction,238,2016
+716,Blood Will Tell,April Henry ,Mystery,272,2015
+717,Children of Virtue and Vengeance,Tomi Adeyemi ,Fantasy,404,2019
+718,Swallowdale,Arthur Ransome,Fiction,448,1931
+719,Our Nig,Harriet E. Wilson,Classics,176,1959
+720,A Day to Pick Your Own Cotton,Michael R. Phillips,Historical Fiction,318,2003
+721,The Geek Girl's Guide to Cheerleading,Charity Tahmaseb ,Young Adult,326,2009
+722,"Magic Lost, Trouble Found",Lisa Shearin ,Fantasy,345,2007
+723,Deep Water,Patricia Highsmith,Fiction,271,1957
+724,Aliens in the Prime of Their Lives,Brad Watson,Short Stories,272,2010
+725,Reaching Out: The Three Movements of the Spiritual Life,Henri J.M. Nouwen,Spirituality,165,1975
+726,The Shift: Taking Your Life from Ambition to Meaning,Wayne W. Dyer,Self Help,144,2009
+727,The Planiverse: Computer Contact with a Two-Dimensional World,A.K. Dewdney,Science Fiction,247,1983
+728,Cat's Claw,Amber Benson ,Urban Fantasy,311,2010
+729,MirrorMask,Neil Gaiman ,Fantasy,80,2005
+730,The Shylmahn Migration,David R. Beshears ,Science Fiction,306,2009
+731,The Light Tamer,Devyn Dawson ,Paranormal,223,2012
+732,A Wolf at the Table,Augusten Burroughs ,Memoir,242,2008
+733,Fated,S.H. Kolee ,Romance,248,2012
+734,Broken: My Story of Addiction and Redemption,William Cope Moyers,Memoir,384,2006
+735,Naked Prey,John Sandford,Mystery,455,2003
+736,The comforts of madness,Paul Sayer,Fiction,128,1988
+737,The Irvine Welsh Omnibus: Trainspotting / The Acid House / Marabou Stork Nightmares,Irvine Welsh,Fiction,900,1997
+738,"The Sweet, Terrible, Glorious Year I Truly, Completely Lost It",Lisa Shanahan,Young Adult,297,2006
+739,Cursed By Destiny,Cecy Robson ,Urban Fantasy,368,2014
+740,Going Rogue,Robin Benway ,Young Adult,320,2014
+741,The Rise of Darth Vader,James Luceno,Star Wars,368,2005
+742,Beautiful Things and How to Ignore Them,Sam Kuban,Poetry,57,2013
+743,A Red-Tainted Silence,Carolyn Gray ,M M Romance,515,2006
+744,Innocent Darkness,Suzanne Lazear,Steampunk,408,2012
+745,Enter the Uncreated Night,Christopher Rankin ,Fantasy,187,2015
+746,Everlasting,Candace Knoebel ,Paranormal,428,2014
+747,The Vanishing Girl,Laura Thalassa ,New Adult,338,2014
+748,Forever with Me,Kristen Pro,Romance,290,2014
+749,Strum Your Heart Out,Crystal Kaswell ,Romance,353,2015
+750,The Queen of Traitors,Laura Thalassa ,New Adult,348,2016
+751,Burning Ambition,Jonathan Bernstein ,Fantasy,320,2010
+752,On the Day I Died: Stories from the Grave,Candace Fleming ,Young Adult,208,2012
+753,Dragonswan,Sherrilyn Kenyon ,Paranormal Romance,86,2002
+754,The Light Keeper's Daughter,Jean Thompson Kinsey,Fiction,207,2010
+755,Bilgewater,Jane Gardam,Fiction,208,1976
+756,Royally Matched,Emma Chase ,Romance,264,2017
+757,The Rise of Nazil,Aaron-Michael Hall ,Fantasy,542,2015
+758,White Fragility: Why It's So Hard for White People to Talk About Racism,Robin DiAngelo,Nonfiction,169,2018
+759,Two from Galilee: The Story of Mary and Joseph,Marjorie Holmes,Historical Fiction,224,1972
+760,The Orchard Keeper,Cormac McCarthy,Fiction,256,1965
+761,The Outlaws of Sherwood,Robin McKinley,Fantasy,368,1988
+762,Citizen Cyborg: Why Democratic Societies Must Respond to the Redesigned Human of the Future,James Hughes,Science,320,2004
+763,Middle Passage,Charles R. Johnson ,Fiction,209,1990
+764,Magic in the Shadows,Devon Monk ,Urban Fantasy,350,2009
+765,Faction Paradox: Warlords of Utopia,Lance Parkin ,Science Fiction,192,2004
+766,The Last Time I Was Me,Cathy Lamb ,Fiction,405,2008
+767,Night Frost,R.D. Wingfield,Mystery,432,1992
+768,Don’t Bite the Sun,Tanith Lee,Science Fiction,158,1976
+769,Roverandom,J.R.R. Tolkien,Fantasy,116,1998
+770,The Darkest Room,Johan Theorin,Mystery,480,2008
+771,The Last Dancer,Daniel Keys Moran ,Science Fiction,594,1993
+772,Miracle in the Andes,Nando Parrado,Nonfiction,304,2006
+773,Traitor in Williamsburg: A Felicity Mystery,Elizabeth McDavid Jones,Historical Fiction,179,2008
+774,Gifts from Eykis,Wayne W. Dyer,Self Help,192,1983
+775,A Dark Dividing,Sarah Rayne,Mystery,535,2004
+776,Death's Daughter,Amber Benson ,Fantasy,359,2009
+777,Bleeding Hearts,Alyxandra Harvey ,Vampires,289,2011
+778,Enlightened,Devyn Dawson ,Young Adult,224,2012
+779,Atlantean,E.N. Watkins ,Young Adult,392,2012
+780,Irreplaceable,Angela Graham ,Romance,306,2013
+781,The Very Persistent Gappers of Frip,George Saunders,Fiction,84,2000
+782,The Broken Window,Jeffery Deaver ,Mystery,414,2008
+783,Charmed Vengeance,Suzanne Lazear,Steampunk,381,2013
+784,The Gramm Curse,Candace Knoebel ,Paranormal,138,2014
+785,Tied,Laney McMann ,Young Adult,277,2013
+786,Running for My Life: One Lost Boy's Journey from the Killing Fields of Sudan to the Olympic Games,Lopez Lomong,Nonfiction,240,2012
+787,Devilish,Michaela Adams,Paranormal,255,2015
+788,June’s Stolen Rose (Seasons of Love and War Book 4),Brenda Ashworth Barry,Fiction,232,2015
+789,Old Filth,Jane Gardam,Fiction,260,2004
+790,No Mercy,Sherrilyn Kenyon ,Fantasy,343,2010
+791,"The Gulag Archipelago, 1918-1956: An Experiment in Literary Investigation, Books III-IV",Aleksandr Solzhenitsyn,History,712,1974
+792,Descendant of the Crane,Joan He ,Fantasy,416,2019
+793,The Unleashing of Ren Crown,Anne Zoelle ,Fantasy,382,2016
+794,Coraline and Other Stories,Neil Gaiman ,Fantasy,278,2009
+795,"Run, Hide, Fight Back",April Henry ,Young Adult,241,2019
+796,The Cool Bean,Jory John,Picture Books,40,2019
+797,Olio,Tyehimba Jess,Poetry,256,2016
+798,Strange Planet,Nathan W. Pyle,Graphic Novels,144,2019
+799,Secret Water,Arthur Ransome,Fiction,376,1939
+800,Deadly Choices: How the Anti-Vaccine Movement Threatens Us All,Paul A. Offit,Science,270,2010
+801,Aurora Burning,Amie Kaufman ,Science Fiction,512,2020
+802,The Holy Sinner,Thomas Mann,Fiction,240,1951
+803,Elizabeth: The Struggle for the Throne,David Starkey,History,384,2000
+804,Together Is All We Need,Michael R. Phillips,Historical Fiction,317,2004
+805,Memoirs Found in a Bathtub,Stanisław Lem,Science Fiction,204,1961
+806,Missee Lee,Arthur Ransome,Fiction,349,1941
+807,"Tie Me Up, Tie Me Down",Sherrilyn Kenyon ,Romance,288,2005
+808,On the Rez,Ian Frazier,Nonfiction,336,2000
+809,The Peace War,Vernor Vinge,Science Fiction,304,1984
+810,Hold the Dream,Barbara Taylor Bradford ,Fiction,768,1985
+811,Nicholas and Alexandra,Robert K. Massie,History,640,1967
+812,Being In Balance: 9 Principles for Creating Habits to Match Your Desires,Wayne W. Dyer,Self Help,181,2006
+813,Core of Evil,Nigel McCrery,Mystery,389,2007
+814,Dangerous to Know,Barbara Taylor Bradford ,Romance,400,1995
+815,Birthright,Laury Falter ,Paranormal,355,2012
+816,Unknown Revolution,Voline,History,716,1947
+817,War of the Witches,Maite Carranza,Fantasy,341,2005
+818,Pearl,Mary Gordon,Fiction,368,2005
+819,"And Afterward, the Dark: Seven Tales",Basil Copper,Horror,222,1977
+820,In Riley's Slumber,Ashlyn Forge ,Science Fiction,250,2014
+821,Report from Ground Zero,Dennis Smith ,Nonfiction,400,2002
+822,"Overwhelmed: Work, Love, and Play When No One Has the Time",Brigid Schulte ,Nonfiction,353,2014
+823,From the Embers,Candace Knoebel ,Fantasy,406,2014
+824,Adi Parva - Churning of the Ocean,Amruta Patil,Graphic Novels,276,2012
+825,"Streams to the River, River to the Sea",Scott O'Dell,Historical Fiction,176,1986
+826,Torn,Laney McMann ,Paranormal,320,2014
+827,Control,Cordelia Kingsbridge,M M Romance,502,2014
+828,The Urban Bestiary: Encountering the Everyday Wild,Lyanda Lynn Haupt ,Nonfiction,352,2013
+829,Stolen Away,Alyxandra Harvey ,Fantasy,288,2011
+830,An Untamed State,Roxane Gay ,Fiction,368,2014
+831,Advise and Consent,Allen Drury,Fiction,616,1959
+832,Train Your Brain,Ryuta Kawashima,Nonfiction,99,2003
+833,The Stockholm Octavo,Karen Engelmann ,Historical Fiction,416,2012
+834,Nobel Lecture,Aleksandr Solzhenitsyn,Nonfiction,69,1971
+835,Coot Club,Arthur Ransome,Fiction,352,1934
+836,Motherhood,Sheila Heti,Fiction,304,2018
+837,Biting the Sun,Tanith Lee,Fantasy,384,1977
+838,After River,Donna Milner ,Fiction,311,2008
+839,Castles of Steel,Robert K. Massie,History,880,2003
+840,To Be the Best,Barbara Taylor Bradford ,Fiction,454,1988
+841,Living Deeply: The Art Science of Transformation in Everyday Life,Marilyn Mandala Schlitz ,Spirituality,231,2008
+842,Death: The Time of Your Life,Neil Gaiman ,Graphic Novels,95,1996
+843,The Myth of Mental Illness: Foundations of a Theory of Personal Conduct,Thomas Szasz,Psychology,297,1961
+844,Residue,Laury Falter ,Paranormal,300,2012
+845,Chu's Day,Neil Gaiman ,Picture Books,30,2013
+846,Mortal Fire,C.F. Dunn ,Mystery,384,2012
+847,Hellhole,Brian Herbert,Science Fiction,517,2011
+848,The Uncanny,Sigmund Freud,Psychology,240,2019
+849,From Evil's Pillow,Basil Copper,Horror,177,1973
+850,Indulge,Angela Graham ,Romance,98,2014
+851,"The Sandman Omnibus, Vol. 2",Neil Gaiman ,Graphic Novels,1040,2013
+852,In Liam's Wake: The Makeshift Soldier,Ashlyn Forge ,M M Romance,331,2013
+853,Born to be Bad,Sherrilyn Kenyon ,Romance,411,2005
+854,The Fall of the Roman Republic,Plutarch,History,414,2000
+855,Apparition Lake,Doug Lamoreux ,Horror,253,2014
+856,Forever,Deila Longford ,Romance,261,2013
+857,True,Laney McMann ,Fantasy,256,2015
+858,Babylon's Ark: The Incredible Wartime Rescue of the Baghdad Zoo,Lawrence Anthony,Nonfiction,256,2007
+859,The Laws of Subtraction: Six Simple Rules for Winning in the Age of Excess Everything,Matthew E. May,Business,224,2012
+860,Dusk,F. Sionil José,Fiction,325,1984
+861,The Stuff of Thought: Language as a Window into Human Nature,Steven Pinker ,Nonfiction,499,2007
+862,Every Boy is a Book,Mirella Muffarotto ,Young Adult,413,2018
+863,Bring Me Back,B.A. Paris ,Thriller,291,2018
+864,I Am Rebecca,Fleur Beale,Young Adult,251,2014
+865,Space Marine Ajax,Sean-Michael Argo ,Science Fiction,174,2017
+866,"The Pathans, 550 B. C. A. D. 1957",Olaf Caroe,History,533,1984
+867,Leaf by Niggle,J.R.R. Tolkien,Fantasy,22,1945
+868,Talking Straight,Lee Iacocca,Business,352,1988
+869,Piratica: Being a Daring Tale of a Singular Girl's Adventure Upon the High Seas,Tanith Lee,Fantasy,288,2004
+870,The Book of (Even More) Awesome,Neil Pasricha ,Nonfiction,384,2011
+871,Out of the Night: The Memoir of Richard Julius Herman Krebs alias Jan Valtin,Jan Valtin,History,720,1940
+872,The Invention of Wings: by Sue Monk Kidd -- Review,Expert Book Reviews,Historical Fiction,38,2014
+873,Holy Cow,David Duchovny,Fiction,224,2015
+874,The Twistrose Key,Tone Almhjell,Fantasy,366,2013
+875,Fuel the Fire,Krista Ritchie ,New Adult,462,2015
+876,Obsessive-Compulsive Disorders: A Complete Guide to Getting Well and Staying Well,Fred Penzel,Nonfiction,448,2000
+877,Born of Ice,Sherrilyn Kenyon ,Romance,355,1994
+878,The Grendel Affair,Lisa Shearin ,Urban Fantasy,292,2013
+879,Beren and Lúthien,J.R.R. Tolkien,Fantasy,288,2017
+880,"Nothing in This Book Is True, But It's Exactly How Things Are: The Esoteric Meaning of the Monuments on Mars",Bob Frissell,Nonfiction,244,1994
+881,The Lovers,John Connolly ,Thriller,341,2009
+882,A Matter of Time Book I,Mary Calmes ,M M Romance,140,2009
+883,The Pinballs,Betsy Byars,Fiction,144,1977
+884,Farmer Giles of Ham,J.R.R. Tolkien,Fantasy,127,1949
+885,Lovers Destined,H.M. Broussard,M M Romance,128,2011
+886,The Writing Class,Jincy Willett,Mystery,326,2008
+887,Orphan at My Door: The Home Child Diary of Victoria Cope,Jean Little,Historical Fiction,221,2001
+888,Return From the Stars,Stanisław Lem,Science Fiction,256,1961
+889,The Cobra King of Kathmandu,P.B. Kerr,Fantasy,384,2006
+890,Iacocca: An Autobiography,Lee Iacocca,Biography,357,1984
+891,Twig,Elizabeth Orton Jones,Childrens,152,1942
+892,The Beautiful and the Cursed,Page Morgan ,Young Adult,341,2013
+893,The Wild Palms,William Faulkner,Fiction,304,1939
+894,The Time-Traveling Fashionista at the Palace of Marie Antoinette,Bianca Turetsky ,Historical Fiction,272,2012
+895,Gingerbread,Robert Dinsdale ,Fantasy,421,2014
+896,Hellblazer: Original Sins,Jamie Delano ,Comics,256,1988
+897,"The Family Romanov: Murder, Rebellion, and the Fall of Imperial Russia",Candace Fleming ,Nonfiction,304,2014
+898,The JPS Bible Commentary: Ruth,Tamara Cohn Eskenazi,Religion,216,2011
+899,Amsterdam,Ian McEwan,Fiction,208,1998
+900,Red,Alyxandra Harvey ,Young Adult,198,2015
+901,Last Friends,Jane Gardam,Fiction,205,2013
+902,The Genesee Diary: Report from a Trappist Monastery,Henri J.M. Nouwen,Religion,222,1976
+903,The Innovator's Dilemma: The Revolutionary Book that Will Change the Way You Do Business,Clayton M. Christensen,Business,286,1997
+904,"First Love, Last Rites",Ian McEwan,Short Stories,176,1975
+905,Hitler's Canary,Sandi Toksvig,Historical Fiction,192,2005
+906,Bloodline: Five Stories,Ernest J. Gaines,Short Stories,249,1968
+907,Bad Men,John Connolly ,Thriller,451,2005
+908,Mortal Prey,John Sandford,Mystery,424,2002
+909,"Missing, Believed Crazy",Terence Blacker,Mystery,287,2009
+910,Corambis,Sarah Monette ,Fantasy,421,2009
+911,From Harlem With Love,K'wan ,Urban,54,2010
+912,The Wisdom of Your Cells: How Your Beliefs Control Your Biology,Bruce H. Lipton ,Science,8,2006
+913,UnRidden,Cat Johnson ,Romance,158,2009
+914,Death,Neil Gaiman ,Graphic Novels,320,2012
+915,Hoodlum,K'wan ,Urban,326,2005
+916,The Autobiography of Miss Jane Pittman,Ernest J. Gaines,Historical Fiction,272,1971
+917,Larkswood,Valerie Mendes,Historical Fiction,400,2014
+918,The Man in the Wooden Hat,Jane Gardam,Fiction,214,2009
+919,Dream Psychology,Sigmund Freud,Psychology,100,2020
+920,Giovanni,Justin Achilli ,Horror,287,2000
+921,All the Sweet Promises,Elizabeth Elgin,Historical Fiction,802,1991
+922,More Than Friends,Monica Murphy ,Romance,320,2016
+923,Tears in Rain,Rosa Montero,Science Fiction,431,2011
+924,Plutarch's Lives: Volume II,Plutarch,History,706,2000
+925,The Darkest Corners,Kara Thomas,Mystery,336,2016
+926,The House: The History of the House of Representatives,Robert V. Remini,History,614,2006
+927,It Couldn't Just Happen (Classical Conv): Fascinating Facts about God's World,Lawrence O. Richards,Science,192,1987
+928,Somebody Else's Daughter,Elizabeth Brundage,Fiction,342,2008
+929,The Mirador,Sarah Monette ,Fantasy,426,2007
+930,Welfare Wifeys,K'wan ,Urban,352,2010
+931,Walt Disney Pictures Presents the Prince and the Pauper,Fran Manushkin,Childrens,23,1990
+932,The Day of the Djinn Warriors,P.B. Kerr,Fantasy,400,2007
+933,The UnTied Kingdom,Kate Johnson ,Fantasy,403,2011
+934,"The Extraordinary Secrets of April, May, & June",Robin Benway ,Young Adult,282,2010
+935,While Other People Sleep,Marcia Muller,Mystery,304,1998
+936,Kiss the Sky,Krista Ritchie ,New Adult,443,2014
+937,Of Neptune,Anna Banks ,Fantasy,330,2014
+938,The Dragon Conspiracy,Lisa Shearin ,Urban Fantasy,292,2015
+939,"Dragon Age, Volume 1",David Gaider,Fantasy,227,2014
+940,Street Dreams,K'wan ,Urban,320,2004
+941,Savage,Willow Rose ,Paranormal,476,2012
+942,Mr. Muo's Travelling Couch,Dai Sijie,Fiction,287,2003
+943,Tainted Black,Shanora Williams ,Romance,311,2015
+944,The Noonday Demon: An Atlas of Depression,Andrew Solomon,Nonfiction,576,2000
+945,The Better Angels of Our Nature: Why Violence Has Declined,Steven Pinker ,Nonfiction,1 page,2010
+946,Thrall,Abigail Graham ,Paranormal,271,2015
+947,The Mother Goose Diaries,Chris Colfer,Fantasy,101,2015
+948,The Old River Road,Ivy Rose,Historical Fiction,396,2016
+949,One Night,Monica Murphy ,Romance,152,2016
+950,Plutarch's Lives: Volume I,Plutarch,History,766,2000
+951,Free the Darkness,Kel Kade ,Fantasy,483,2015
+952,The Gates,John Connolly ,Fantasy,264,2009
+953,Section 8,K'wan ,Urban,368,2009
+954,The Eye Of The Forest,P.B. Kerr,Fantasy,384,2008
+955,Fight with Me,Kristen Pro,Romance,352,2012
+956,Vibora!,F. Sionil José,Fiction,118,2008
+957,Always in His Keeping,Unknown,Fiction,144,1986
+958,The Hambledown Dream,Dean Mayes ,Romance,284,2010
+959,Hard to Handle,Jessica Lemmon ,Romance,260,2013
+960,Road Dawgz,K'wan ,Urban,278,2003
+961,A Hustler's Promise,Jackie Chanel ,Urban,292,2011
+962,Bridget Wilder: Spy-in-Training,Jonathan Bernstein ,Humor,320,2015
+963,A Breath of Frost,Alyxandra Harvey ,Fantasy,482,2014
+964,A Rift in Time,Michael R. Phillips,Christian Fiction,480,1997
+965,Sync: The Emerging Science of Spontaneous Order,Steven H. Strogatz ,Science,352,2003
+966,Laughing at My Nightmare,Shane Burcaw ,Nonfiction,256,2014
+967,Trollbella Throws a Party: A Tale from the Land of Stories,Chris Colfer,Picture Books,32,2017
+968,Rhapsodic,Laura Thalassa ,Fantasy,423,2016
+969,Briar Rose,Jana Oliver ,Young Adult,470,2013
+970,Toil & Trouble,Augusten Burroughs ,Memoir,320,2019
+971,The Black Angel,John Connolly ,Thriller,576,2005
+972,Califia's Daughters,Leigh Richards,Science Fiction,489,2004
+973,Katie's Hellion,Lizzy Ford ,Paranormal,218,2011
+974,Night Pleasures/Night Embrace,Sherrilyn Kenyon ,Paranormal Romance,736,2005
+975,The Dream of Perpetual Motion,Dexter Palmer,Steampunk,352,2010
+976,The Virtu,Sarah Monette ,Fantasy,439,2006
+977,The Ultimates,Mark Millar ,Comics,376,2004
+978,Angel in the Storm,Lisa Grace ,Christian Fiction,161,2011
+979,Lady: My Life as a Bitch,Melvin Burgess,Young Adult,256,2001
+980,Luka and the Fire of Life,Salman Rushdie,Fantasy,223,2010
+981,Gangsta,K'wan ,Urban,198,2002
+982,A Hustler's Promise 2,Jackie Chanel ,Urban,228,2012
+983,Smith of Wootton Major,J.R.R. Tolkien,Fantasy,149,1967
+984,Race Matters,Cornel West,Nonfiction,159,1993
+985,"The Joy of x: A Guided Tour of Math, from One to Infinity",Steven H. Strogatz ,Nonfiction,336,2012
+986,Queen Red Riding Hood’s Guide To Royalty,Chris Colfer,Fantasy,120,2015
+987,Just Friends,Monica Murphy ,Romance,315,2016
+988,Night Train,Martin Amis,Fiction,176,1997
+989,"Kyo Kara MAOH!, Volume 02",Tomo Takabayashi,Fantasy,161,2006
+990,Lafayette,Harlow Giles Unger,Biography,452,2002
+991,The Bone Key: The Necromantic Mysteries of Kyle Murchison Booth,Sarah Monette ,Horror,253,2007
+992,Angel in the Ice,Lisa Grace ,Christian Fiction,163,2012
+993,Man on Fire,A.J. Quinnell,Thriller,320,1980
+994,The Fire Starter,Gloria Clover ,Fantasy,266,2012
+995,A Fortress of Grey Ice,J.V. Jones,Fantasy,624,2003
+996,Blood Prophecy,Alyxandra Harvey ,Vampires,496,2012
+997,Nearly Found,Elle Cosimano ,Mystery,384,2015
+998,One Was Lost,Natalie D. Richards ,Mystery,308,2016
+999,Frostborn,Lou Anders ,Fantasy,352,2014
+1000,The Cheerleaders,Kara Thomas,Mystery,384,2018
+1001,The Child in Time,Ian McEwan,Fiction,263,1987
+1002,"East, West",Salman Rushdie,Fiction,224,1994
+1003,Magical Thinking: True Stories,Augusten Burroughs ,Nonfiction,304,2004
+1004,Our Story Begins: New and Selected Stories,Tobias Wolff,Short Stories,400,2008
+1005,Icons,Margaret Stohl ,Young Adult,428,2013
+1006,Rebels Wit Attitude: Subversive Rock Humorists,Iain Ellis,Music,256,2008
+1007,The Cursed,Laura Thalassa ,Vampires,342,2014
+1008,The Seahorse Legacy,Serena Chase ,Fantasy,438,2014
+1009,Gone Too Far,Natalie D. Richards ,Young Adult,320,2014
+1010,A Calendar of Tales,Neil Gaiman ,Short Stories,31,2013
+1011,The Toss of a Lemon,Padma Viswanathan,Fiction,640,2008
+1012,Daring the Bad Boy,Monica Murphy ,Young Adult,150,2016
+1013,A Killer's Mind,Mike Omer ,Mystery,380,2018
+1014,They All Saw A Cat,Brendan Wenzel,Picture Books,44,2016
+1015,Wide as the Waters: The Story of the English Bible and the Revolution it Inspired,Benson Bobrick,History,392,2001
+1016,The Autobiography: Truth and poetry: from my own life,Johann Wolfgang von Goethe,Biography,660,1933
+1017,The Reapers,John Connolly ,Thriller,453,2008
+1018,African Stories,Doris Lessing,Short Stories,670,1965
+1019,The Acid House,Irvine Welsh,Fiction,289,1994
+1020,Someday Angeline,Louis Sachar ,Childrens,154,1983
+1021,The Technologists,Matthew Pearl ,Historical Fiction,480,2012
+1022,Playing and Reality,D.W. Winnicott,Psychology,214,1971
+1023,Red Helmet,Homer Hickam ,Fiction,341,2008
+1024,Swallows and Amazons for Ever,Arthur Ransome,Fiction,393,1984
+1025,Collected Poems and Other Verse,Stéphane Mallarmé,Poetry,282,1999
+1026,A Man of the People,Chinua Achebe,Fiction,160,1966
+1027,Jamie Dornan: Shades of Desire,Alice Montgomery,Biography,250,2015
+1028,His Banner Over Me,Jean Little,Fiction,224,1995
+1029,Descartes' Bones: A Skeletal History of the Conflict Between Faith and Reason,Russell Shorto ,History,319,2008
+1030,Corvus,L. Lee Lowe ,Science Fiction,525,2009
+1031,Jonas,Angela Cameron ,Paranormal Romance,208,2009
+1032,Rock n Roll Promises,AmBear Shellea ,Paranormal,123,2013
+1033,Head of the House,Grace Livingston Hill,Romance,270,1940
+1034,Bucky F*cking Dent,David Duchovny,Fiction,308,2016
+1035,Don't Wake Up,Liz Lawler ,Thriller,320,2017
+1036,"If You Liked School, You'll Love Work",Irvine Welsh,Fiction,320,2007
+1037,If I Had My Life to Live Over I Would Pick More Daisies,Sandra Martz,Poetry,205,1992
+1038,Damian's Oracle,Lizzy Ford ,Paranormal,129,2011
+1039,Garcia Marquez: Cronica de Una Muerte Anuciada,Stephen M. Hart,Classics,68,1981
+1040,The Forgotten Child,Lorhainne Eckhart ,Romance,222,2011
+1041,Iron Scouts of the Confederacy,Lee McGiffin,Historical Fiction,157,1993
+1042,Alexandra,Scott O'Dell,Young Adult,128,1984
+1043,Brentwood,Grace Livingston Hill,Romance,310,1937
+1044,The Killing Jar,Jennifer Bosworth ,Young Adult,352,2016
+1045,Trouble with Trolls,Jan Brett,Picture Books,32,1992
+1046,Godspeed: The Kurt Cobain Graphic,James McCarthy,Graphic Novels,74,2003
+1047,Long Past Stopping: A Memoir,Oran Canfield,Memoir,336,2009
+1048,"A Devil's Chaplain: Reflections on Hope, Lies, Science, and Love",Richard Dawkins ,Science,263,2003
+1049,Trojan Horse,Mark Russinovich,Fiction,336,2012
+1050,Play with Me,Kristen Pro,Romance,298,2013
+1051,Jealousy,Jenna Galicki ,M M Romance,314,2013
+1052,Mine,Mary Calmes ,M M Romance,220,2012
+1053,Scandalous Women: The Lives and Loves of History's Most Notorious Women,Elizabeth Kerri Mahon ,History,304,2011
+1054,Long Live the Queen,Kate Locke ,Steampunk,320,2013
+1055,A Rose for Emily,William Faulkner,Short Stories,36,1930
+1056,Exit Betty,Grace Livingston Hill,Christian,160,2020
+1057,In Evil Hour,Gabriel García Márquez,Fiction,192,1962
+1058,The Thousand-Dollar Tan Line,Rob Thomas,Mystery,324,2014
+1059,Salt & Stone,Victoria Scott ,Young Adult,320,2015
+1060,Rainbow Cottage,Grace Livingston Hill,Romance,262,1934
+1061,The Lays of Beleriand,J.R.R. Tolkien,Fantasy,393,1985
+1062,Sustained,Emma Chase ,Romance,267,2015
+1063,Into the Blue,Pene Henson ,Romance,236,2016
+1064,The Girl I Used to Be,April Henry ,Mystery,240,2016
+1065,River Rising,Athol Dickson ,Christian Fiction,304,2006
+1066,Silk Road,Jeanne Larsen ,Fantasy,448,1989
+1067,"Good Night, Gorilla",Peggy Rathmann,Picture Books,32,1994
+1068,The Ever After of Ashwin Rao,Padma Viswanathan,Fiction,384,2014
+1069,God Save the Queen,Kate Locke ,Steampunk,342,2012
+1070,The End of Harry Potter?,David Langford,Nonfiction,208,2006
+1071,The Golden House,Salman Rushdie,Fiction,380,2017
+1072,The Healing Power of Stories,Daniel Taylor ,Nonfiction,182,1996
+1073,Three From Galilee: The Young Man from Nazareth,Marjorie Holmes,Historical Fiction,304,1985
+1074,Tangled Extra Scenes,Emma Chase ,Romance,37,2013
+1075,Jacked,Tina Reber ,Romance,495,2014
+1076,Tim Burton's Corpse Bride: The Illustrated Story,Tim Burton,Fantasy,95,2005
+1077,Miranda,Grace Livingston Hill,Romance,224,2015
+1078,Tied with Me,Kristen Pro,Romance,264,2014
+1079,Faked,Karla Sorensen ,Romance,259,2020
+1080,Winged Pharaoh,Joan Marshall Grant,Fiction,336,1938
+1081,Girls Rule,Ashley Rice ,Nonfiction,64,2002
+1082,For Your Own Good: Hidden Cruelty in Child-Rearing and the Roots of Violence,Alice Miller,Psychology,284,1980
+1083,50 Physics Ideas You Really Need to Know,Joanne Baker,Science,208,2007
+1084,Holy Frigging Matrimony,Emma Chase ,Romance,40,2013
+1085,"Nella Last's Peace: The Post-War Diaries of Housewife, 49",Nella Last,Nonfiction,305,2008
+1086,Summoned to Darkness,Anne-Marie Sheridan,Fiction,249,1978
+1087,Phoebe Deane,Grace Livingston Hill,Romance,224,2009
+1088,The Skin Collector,Jeffery Deaver ,Mystery,430,2014
+1089,"Roman Lives: A Selection of Eight Lives (Aemilius Paulus, Tiberius Gracchus and Gaius Grachus, Marius, Sulla, Pompey, Caesar, Marc Anthony)",Plutarch,History,608,2000
+1090,The Sleeper and the Spindle,Neil Gaiman ,Fantasy,72,2014
+1091,Snow White & the Huntsman,Evan Daugherty,Fantasy,220,2012
+1092,From Johann To Tannenbaum,Ashlyn Forge ,M M Romance,370,2013
+1093,Singing the Dogstar Blues,Alison Goodman ,Young Adult,336,1998
+1094,"Nella Last's War: The Second World War Diaries of 'Housewife, 49'",Nella Last,Nonfiction,312,1981
+1095,The Ryn,Serena Chase ,Fantasy,380,2013
+1096,Marcia Schuyler,Grace Livingston Hill,Romance,224,2008
+1097,"Prague Winter: A Personal Story of Remembrance and War, 1937-1948",Madeleine K. Albright,Nonfiction,467,2012
+1098,Pandora's Lab: Seven Stories of Science Gone Wrong,Paul A. Offit,Science,288,2017
+1099,Mists of the Serengeti,Leylah Attar ,Romance,360,2017
+1100,Mass,F. Sionil José,Fiction,256,1973
+1101,Zero Day,Mark Russinovich,Fiction,328,2011
+1102,The Time of My Life,Patrick Swayze,Biography,244,2007
+1103,The Black Pearl,Scott O'Dell,Fiction,112,1967
+1104,The Psychopathology of Everyday Life,Sigmund Freud,Psychology,395,2001
+1105,Pigeon Post,Arthur Ransome,Fiction,382,1936
+1106,Muhammad Ali: His Life and Times,Thomas Hauser,Biography,544,1991
+1107,Kari,Amruta Patil,Graphic Novels,120,2007
+1108,Flags in the Dust,William Faulkner,Fiction,448,1929
+1109,Evening Is the Whole Day,Preeta Samarasan ,Fiction,340,2008
+1110,"Don't Get Too Comfortable: The Indignities of Coach Class, The Torments of Low Thread Count, The Never-Ending Quest for Artisanal Olive Oil, and Other First World Problems",David Rakoff,Nonfiction,222,2005
+1111,The Tolkien Reader,J.R.R. Tolkien,Fantasy,251,1966
+1112,The Butlerian Jihad,Brian Herbert,Science Fiction,684,2002
+1113,Old Black Fly,Jim Aylesworth,Picture Books,32,1992
+1114,Found Treasure,Grace Livingston Hill,Christian Fiction,138,1928
+1115,The Adventures of Nanny Piggins,R.A. Spratt ,Humor,256,2009
+1116,Black Orchid,Neil Gaiman ,Graphic Novels,176,1990
+1117,At Home With the Templetons,Monica McInerney ,Fiction,471,2010
+1118,Feminine Appeal: Seven Virtues of a Godly Wife and Mother,Carolyn Mahaney,Christian,192,2003
+1119,Hansel and Gretel,Neil Gaiman ,Fantasy,56,1957
+1120,Coming Through the Rye,Grace Livingston Hill,Romance,319,1926
+1121,A Rage to Live: A Biography of Richard and Isabel Burton,Mary S. Lovell,Biography,944,1998
+1122,Angel In The Shadows,Lisa Grace ,Young Adult,144,2009
+1123,"The ""Fighting Temeraire""",Sam Willis,History,416,2009
+1124,The Life of Andrew Jackson,Robert V. Remini,Biography,448,1988
+1125,The Coveted,Laura Thalassa ,Fantasy,312,2014
+1126,Sing Down the Moon,Scott O'Dell,Historical Fiction,124,1970
+1127,America the Beautiful,Laura Hayden ,Fiction,391,2008
+1128,Grange House,Sarah Blake ,Historical Fiction,384,2000
+1129,Jakob the Liar,Jurek Becker,Fiction,256,1969
+1130,White as Snow,Tanith Lee,Fantasy,320,2000
+1131,The Unearthly,Laura Thalassa ,Fantasy,296,2013
+1132,Rose Red,Caroline Lee ,Romance,86,2016
+1133,The Magic Spell,Linda Chapman,Fantasy,128,2007
+1134,Archangel,Robert Harris ,Fiction,432,1998
+1135,Boyfriend From Hell,E. Van Lowe ,Young Adult,260,2011
+1136,"Red, White, and Blue",Laura Hayden ,Fiction,344,2009
+1137,"Confessions of Felix Krull, Confidence Man: The Early Years",Thomas Mann,Fiction,400,1954
+1138,Secrets on 26th Street,Elizabeth McDavid Jones,Historical Fiction,144,1999
+1139,Tempting the Billionaire,Jessica Lemmon ,Romance,320,2013
+1140,The Anarchistic Colossus,A.E. van Vogt,Science Fiction,248,1977
+1141,Florence Nightingale: The Making of an Icon,Mark Bostridge,Biography,672,2008
+1142,The Ultimates 2: Ultimate Collection,Mark Millar ,Comics,464,2007
+1143,Deadly Dreams,Sarah Dieng ,Paranormal,179,2011
+1144,Eternals,Neil Gaiman ,Comics,256,2006
+1145,"Far from the Tree: Parents, Children, and the Search for Identity",Andrew Solomon,Nonfiction,962,2012
+1146,The Last Legends of Earth,A.A. Attanasio ,Science Fiction,450,1989
+1147,Buffy the Vampire Slayer: Wolves at the Gate,Drew Goddard,Graphic Novels,136,2008
+1148,The Stepmother,Caroline Lee ,Romance,167,2016
+1149,Shooting an Elephant,George Orwell,Nonfiction,368,1936
+1150,Devil's Kiss: Widowmakers MC,Celia Loren,Romance,340,2014
+1151,The Cold Moon,Jeffery Deaver ,Mystery,416,2006
+1152,Easy Kisses,Kristen Pro,Romance,275,2016
+1153,Rapunzelle,Caroline Lee ,Romance,205,2016
+1154,The Ancient Irish Epic Tale Tain Bo Cualnge the Cualnge Cattle-Raid,Unknown,Classics,424,2000
+1155,With the Lightnings,David Drake,Science Fiction,336,1998
+1156,Tins,Alex Shearer,Fiction,260,2006
+1157,Easy Melody,Kristen Pro,Romance,235,2015
+1158,Little Red,Caroline Lee ,Romance,164,2016
+1159,Dark Harmony,Laura Thalassa ,Fantasy,369,2018
+1160,Slime Time,Betsy Haynes ,Horror,144,1996
+1161,Imaginary Homelands: Essays and Criticism 1981-1991,Salman Rushdie,Nonfiction,448,1991
+1162,Their Fractured Light,Amie Kaufman ,Science Fiction,428,2015
+1163,Easy Charm,Kristen Pro,Romance,280,2015
+1164,Beauty,Caroline Lee ,Romance,200,2016
+1165,The Emperor of Evening Stars,Laura Thalassa ,New Adult,219,2017
+1166,Easy Love,Kristen Pro,Romance,246,2015
+1167,Falling In,Frances O'Roark Dowell ,Fantasy,256,2010
+1168,City of Quartz: Excavating the Future in Los Angeles,Mike Davis,History,462,1990
+1169,To Serve Them All My Days,R.F. Delderfield,Historical Fiction,672,1972
+1170,The Cobbler's Kids,Rosie Harris,Fiction,368,2005
+1171,Climbing Mount Improbable,Richard Dawkins ,Science,308,1996
+1172,"Excuses Begone!: How to Change Lifelong, Self-Defeating Thinking Habits",Wayne W. Dyer,Self Help,288,2009
+1173,Satan's Property,Celia Loren,Romance,315,2014
+1174,Batman: Whatever Happened to the Caped Crusader?,Neil Gaiman ,Comics,128,2009
+1175,Roswell,Sonny Whitelaw,Science Fiction,348,2007
+1176,Innumeracy: Mathematical Illiteracy and Its Consequences,John Allen Paulos,Nonfiction,208,1988
+1177,"I Love You, Beth Cooper",Larry Doyle ,Humor,253,2007
+1178,The Dark Days Club,Alison Goodman ,Fantasy,485,2015
+1179,Case Histories 1,Sigmund Freud,Psychology,331,2001
+1180,Mr. Standfast,John Buchan,Fiction,352,2019
+1181,Irreligion: A Mathematician Explains Why the Arguments for God Just Don't Add Up,John Allen Paulos,Religion,158,2007
+1182,Bad Blood,John Sandford,Mystery,388,2010
+1183,River Out of Eden: A Darwinian View of Life,Richard Dawkins ,Science,172,1994
+1184,Officer Buckle and Gloria,Peggy Rathmann,Picture Books,40,1995
+1185,Janice Meredith,Paul Leicester Ford,Historical Fiction,524,1999
+1186,The Sandman Volumes 1-10,Neil Gaiman ,Graphic Novels,2050,2012
+1187,Addison Blakely: Confessions of a PK,Betsy St. Amant ,Young Adult,368,2012
+1188,Immediatism,Peter Lamborn Wilson,Philosophy,60,1994
+1189,A World at Arms: A Global History of World War II,Gerhard L. Weinberg,History,1208,1994
+1190,Planet Earth II,Stephen Moss,Nonfiction,312,2016
+1191,In Mad Love and War,Joy Harjo ,Poetry,67,1990
+1192,The Evil Eye: The Classic Account of an Ancient Superstition,Frederick Thomas Elworthy,Nonfiction,471,1971
+1193,"I, Cthulhu, or, What’s a Tentacle-Faced Thing Like Me Doing in a Sunken City Like This (Latitude 47° 9′ S, Longitude 126° 43′ W)?",Neil Gaiman ,Short Stories,12,1986
+1194,"The New Teen Titans Omnibus, Vol. 2",Marv Wolfman,Comics,736,2012
+1195,Book Love,Debbie Tung ,Graphic Novels,137,2019
+1196,Kick-Ass,Mark Millar ,Comics,216,2010
+1197,"The New Teen Titans Omnibus, Vol. 1",Marv Wolfman,Comics,684,2011
+1198,Greenmantle,John Buchan,Fiction,204,2016
+1199,"This Is How: Proven Aid in Overcoming Shyness, Molestation, Fatness, Spinsterhood, Grief, Disease, Lushery, Decrepitude & More. For Young and Old Alike.",Augusten Burroughs ,Nonfiction,230,2012
+1200,The Absent One,Jussi Adler-Olsen,Mystery,406,2008
+1201,Divagations,Stéphane Mallarmé,Poetry,302,2007
+1202,The Lady of Bolton Hill,Elizabeth Camden ,Historical Fiction,336,2011
+1203,A Summons to Memphis,Peter Taylor,Fiction,209,1986
+1204,A Week without Tuesday,Angelica Banks ,Fantasy,384,2015
+1205,Prisoners of the Japanese,Gavan Daws,History,462,1994
+1206,Divided Soul: The Life Of Marvin Gaye,David Ritz,Music,416,1985
+1207,Reparation: A Spiritual Journey,Maria Hall ,Memoir,209,2015
+1208,"Sir Gawain and the Green Knight, Pearl, and Sir Orfeo",Unknown,Fantasy,158,2000
+1209,Nemesis,Anna Banks ,Fantasy,359,2016
+1210,The Semplica-Girl Diaries (short story),George Saunders,Short Stories,24,2012
+1211,Against the Tide,Elizabeth Camden ,Historical Fiction,362,2012
+1212,The Sirian Experiments,Doris Lessing,Science Fiction,288,1980
+1213,The Last One,Alexandra Oliva ,Fiction,304,2016
+1214,Complete Novels and Stories,Kate Chopin,Fiction,1075,1999
+1215,Man Is Not Alone: A Philosophy of Religion,Abraham Joshua Heschel,Religion,320,1951
+1216,The Land of Stories: The Ultimate Book Hugger's Guide,Chris Colfer,Fantasy,352,2018
+1217,No Longer at Ease,Chinua Achebe,Fiction,196,1960
+1218,Redneck Woman: Stories from My Life,Gretchen Wilson,Biography,224,2006
+1219,Good,S. Walden,New Adult,372,2013
+1220,The Forgetting Time,Sharon Guskin ,Fiction,357,2016
+1221,Sandworms of Dune,Brian Herbert,Science Fiction,494,2007
+1222,Black Dogs,Ian McEwan,Fiction,149,1992
+1223,Lord of Misrule,Jaimy Gordon,Fiction,294,2010
+1224,Hunters of Dune,Brian Herbert,Science Fiction,524,2006
+1225,The African Safari Papers,Robert Sedlack ,Fiction,309,2001
+1226,Kiss of Pride,Sandra Hill ,Paranormal,353,2012
+1227,Running Eagle: Woman Warrior of the Blackfeet,James Willard Schultz,Biography,24,1919
+1228,An Imaginary Life,David Malouf,Fiction,156,1978
+1229,Fire and Fury: The Allied Bombing of Germany 1942--1945,Randall Hansen,History,368,2008
+1230,Wolf Tower,Tanith Lee,Fantasy,223,1998
+1231,Briefing for a Descent Into Hell,Doris Lessing,Fiction,278,1971
+1232,Obsidio,Amie Kaufman ,Science Fiction,624,2018
+1233,Little Girl Gone,Drusilla Campbell ,Fiction,299,2012
+1234,Doctor Olaf van Schuler's Brain,Kirsten Menger-Anderson ,Fiction,290,2008
+1235,The Museum of Heartbreak,Meg Leder,Young Adult,256,2016
+1236,Holding Smoke,Elle Cosimano ,Young Adult,336,2016
+1237,Wayfarer,R.J. Anderson ,Fantasy,304,2010
+1238,The Love Potion,Sandra Hill ,Romance,400,1999
+1239,Arrow,R.J. Anderson ,Fantasy,368,2011
+1240,Crying With Laughter: My Life Story,Bob Monkhouse,Biography,340,1993
+1241,Don't Kill The Messenger,Eileen Rendahl ,Urban Fantasy,323,2010
+1242,Penny Dreadful,Will Christopher Baer,Fiction,309,2000
+1243,Firsts,Rosalie Stanton ,Romance,74,2009
+1244,The Story of Mr Sommer,Patrick Süskind,Fiction,128,1991
+1245,Wake,Anna Hope,Historical Fiction,304,2014
+1246,Charlie Wilson's War: The Extraordinary Story of How the Wildest Man in Congress and a Rogue CIA Agent Changed the History of our Times,George Crile,History,560,2003
+1247,Tree and Leaf,J.R.R. Tolkien,Fantasy,92,1964
+1248,Haunted London Underground,David Brandon,Nonfiction,96,2008
+1249,Deliver Us From Evil: Restoring the Soul in a Disintergrating Culture,Ravi Zacharias,Christian,272,1996
+1250,The Photographer,Emmanuel Guibert,Graphic Novels,288,2003
+1251,Barry Lyndon,William Makepeace Thackeray,Classics,220,1844
+1252,Why Jesus?: Rediscovering His Truth in an Age of Mass Marketed Spirituality,Ravi Zacharias,Christian,304,2012
+1253,Pylon,William Faulkner,Fiction,336,1935
+1254,The Door in the Hedge,Robin McKinley,Fantasy,224,1981
+1255,C. P. Cavafy: Collected Poems,Constantinos P. Cavafy,Poetry,304,1935
+1256,The End of Reason: A Response to the New Atheists,Ravi Zacharias,Nonfiction,143,2008
+1257,Disney's Storybook Collection,Nancy Parent,Childrens,320,1998
+1258,Spindle's End,Robin McKinley,Fantasy,354,2000
+1259,The Grand Weaver: How God Shapes Us Through the Events of Our Lives,Ravi Zacharias,Christian,208,2007
+1260,The Three Hostages,John Buchan,Fiction,288,1924
+1261,Savage Destiny,Cassie Edwards,Romance,370,2003
+1262,The Red Hot Cajun,Sandra Hill ,Romance,318,2005
+1263,Savage Heat,Cassie Edwards,Romance,395,1998
+1264,"Tall, Dark, and Cajun",Sandra Hill ,Romance,380,2003
+1265,"The Incal, Book 2: John Difool, Class ""R"" Detective",Alejandro Jodorowsky,Comics,152,1990
+1266,White Light,Rudy Rucker,Science Fiction,269,1980
+1267,Crow Planet: Essential Wisdom from the Urban Wilderness,Lyanda Lynn Haupt ,Nonfiction,229,2009
+1268,Walt Disney Pictures Presents The Little Mermaid Ariel's Underwater Adventure (A Little Golden Book),Michael Teitelbaum,Childrens,24,1989
+1269,The Cajun Cowboy,Sandra Hill ,Romance,349,2004
+1270,The Hacker and the Ants,Rudy Rucker,Science Fiction,306,1994
+1271,Carving The Light,Sue A. Maynard ,Fiction,178,2010
+1272,Wisdom of the Ages: A Modern Master Brings Eternal Truths into Everyday Life,Wayne W. Dyer,Spirituality,288,1975
+1273,Spaceland,Rudy Rucker,Science Fiction,304,2002
+1274,Behavior Of Moths,Poppy Adams,Fiction,320,2008
+1275,Alpha Centauri,William Barton,Science Fiction,448,1997
+1276,How to Live with a Neurotic Cat,Stephen Baker,Humor,128,1985
+1277,Everyday Wisdom,Wayne W. Dyer,Self Help,305,1994
+1278,The Secret History of Kate Bush (& the Strange Art of Pop),Fred Vermorel,Nonfiction,94,1983
+1279,Desert,J.M.G. Le Clézio,Fiction,352,1980
+1280,Master of Space and Time,Rudy Rucker,Science Fiction,288,1985
+1281,Emily Post's Etiquette,Peggy Post,Nonfiction,876,1922
+1282,10 Secrets for Success and Inner Peace,Wayne W. Dyer,Self Help,158,2001
+1283,Into the Whirlwind,Elizabeth Camden ,Historical Fiction,384,2013
+1284,"Lafcadio, the Lion Who Shot Back",Shel Silverstein,Childrens,112,1963
+1285,Blue Fire,Janice Hardy ,Fantasy,373,2010
+1286,Spiritual Formation: Following the Movements of the Spirit,Henri J.M. Nouwen,Spirituality,192,2010
+1287,The Shifter,Janice Hardy ,Fantasy,370,2009
+1288,Software,Rudy Rucker,Science Fiction,167,1982
+1289,Uncle Shelby's ABZ Book,Shel Silverstein,Humor,80,1961
+1290,Frames of War: When Is Life Grievable?,Judith Butler,Philosophy,193,2009
+1291,A Natural History of the Senses,Diane Ackerman ,Nonfiction,352,1990
+1292,Hamlet as Told on the Street,Shel Silverstein,Poetry,18,1998
+1293,Hogwarts: An Incomplete and Unreliable Guide,J.K. Rowling,Fantasy,79,2016
+1294,Planet of Slums,Mike Davis,Nonfiction,228,2006
+1295,Mary Coin,Marisa Silver ,Historical Fiction,324,2013
+1296,How Should a Person Be?: A Novel from Life,Sheila Heti,Fiction,320,2010
+1297,The Dialectical Biologist,Richard Levins,Science,336,1985
+1298,A Vein of Riches,John Knowles,Historical Fiction,343,1978
+1299,Figuring,Maria Popova ,Nonfiction,592,2019
+1300,"Short Stories from Hogwarts of Heroism, Hardship and Dangerous Hobbies",J.K. Rowling,Fantasy,71,2016
+1301,Slake's Limbo: 121 Days,Felice Holman,Fiction,128,1974
+1302,The Summer of the Swans,Betsy Byars,Fiction,142,1970
+1303,"Short Stories from Hogwarts of Power, Politics and Pesky Poltergeists",J.K. Rowling,Fantasy,71,2016
+1304,Wetware,Rudy Rucker,Science Fiction,183,1988
+1305,"A Robin McKinley Collection: Spindle's End, The Hero and the Crown and The Blue Sword (Folktales #1-3)",Robin McKinley,Fantasy,1008,2002
+1306,The Rachel Papers,Martin Amis,Fiction,240,1973
+1307,Fury,Salman Rushdie,Fiction,272,2001
+1308,"Angel: After the Fall, Volume 1",Brian Lynch,Graphic Novels,144,2007
+1309,The Last Three Minutes: Conjectures About The Ultimate Fate Of The Universe,Paul Davies,Science,176,1994
